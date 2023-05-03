@@ -1,0 +1,11 @@
+{{ $nanogallery2_settings := getJSON "/static/ng2_lightbox.json" | jsonify}}
+
+{{ $caption := "" }}
+{{ if (.Get "caption") }}
+    {{ $caption = printf "#### %s" (.Get "caption") | markdownify }}
+{{ end }}
+
+{{ $caption }}
+<div data-nanogallery2="{{$nanogallery2_settings}}">
+  {{.Inner}}
+</div>

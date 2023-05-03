@@ -1,0 +1,15 @@
+{{ $image := resources.GetMatch (.Get "src") }}
+{{ if not $image }}
+    {{ $image = resources.GetMatch "images/mooncake.webp" }}
+{{ end }}
+
+{{ $caption := "" }}
+{{ if (.Get "caption") }}
+    {{ $caption = (.Get "caption" | markdownify ) }}
+{{ else }}
+    {{ $caption = (path.Split $image.Name).File }}
+    {{ $caption = "" }}
+{{ end }}
+
+{{ $.Scratch.Set "thumbnail" ($image.Resize "x500 q90") }}
+<a href="{{ $image.RelPermalink }}" data-ngthumb="{{ ($.Scratch.Get "thumbnail").RelPermalink }}">{{ $caption }}</a>

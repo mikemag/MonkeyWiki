@@ -1,0 +1,26 @@
+{{ $translator := "" }}
+{{ $translatorPage := "" }}
+{{ $translatedDate := "" }}
+{{ if .Params.translator }}
+  {{ $translator = .Params.Translator }}
+  {{ $translatorPage = .Params.TranslatorPage }}
+  {{ $translatedDate = (time .Params.TranslatedDate) }}
+{{ end }}
+
+<div>
+    {{- $date := partial "docs/date" (dict "Date" .Lastmod "Format" .Site.Params.BookDateFormat) -}}
+    {{ if $translator }}
+      {{- $translatedDate = partial "docs/date" (dict "Date" $translatedDate "Format" .Site.Params.BookDateFormat) -}}
+    {{ end }}
+    <span>Last modified {{ $date }}</span>
+    <br />
+    {{ with .Params.Translator }}
+      <span>Translated by <a href="{{ $translatorPage }}">{{ $translator }}</a> on {{ $translatedDate }}
+    {{ end }}
+    </span>
+    <br />
+    <br />
+    <span>
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </span>
+</div>

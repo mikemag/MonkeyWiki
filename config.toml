@@ -1,0 +1,37 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Monkey Wiki'
+theme = 'hugo-book'
+#theme = 'ananke'
+
+disablePathToLower = true
+
+enableGitInfo = true
+
+# mmmfixme: how to use, what value?
+# copyright = 'Everything is mine'
+
+defaultContentLanguage = 'en'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 1
+  [languages.zh-cn]
+    languageName = 'Chinese (FIND PROPER CHARS)'
+    contentDir = 'content/zh-cn'
+    title = '(FIND CHINESE SITE NAME)'
+    weight = 2
+
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = 'MonkeyWiki'
+  BookDateFormat = 'Monday January 02, 2006, at 15:04:05 MST'
+  BookSearch = false
+
+  xrequire_fancybox = true

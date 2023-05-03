@@ -1,0 +1,54 @@
+{
+  "thumbnailWidth": "auto",
+  "thumbnailHeight": 300,
+  "locationHash": false,
+
+  "thumbnailAlignment": "center",
+  "thumbnailLabel": {
+    "display": true,
+    "align": "left",
+    "valign": "bottom",
+    "position": "onBottom",
+    "hideIcons": true,
+    "xtitle": "%filenameNoExt",
+    "xtitleFontSize": "1em",
+    "titleMultiLine": false,
+    "displayDescription": false
+  },
+
+  "thumbnailGutterWidth": 2,
+  "thumbnailGutterHeight": 2,
+  "thumbnailBorderVertical": 4,
+  "thumbnailBorderHorizontal": 4,
+
+  "thumbnailDisplayTransition":          "slideUp2",
+  "thumbnailDisplayTransitionDuration":  350,
+  "thumbnailDisplayInterval":            20,
+  "galleryDisplayTransition":            "rotateX",
+  "galleryDisplayTransitionDuration":    350,
+  "thumbnailHoverEffect2": "scale120|borderLighter",
+
+  "viewerToolbar":   {
+    "display":    true,
+    "standard":   "label",
+    "minimized":  "label"
+  },
+  "viewerTools":     {
+    "topLeft":    "pageCounter, rotateLeft, rotateRight",
+    "topRight":   "linkOriginalButton, shareButton, downloadButton, fullscreenButton, closeButton"
+  },
+
+  "galleryTheme": {
+    "thumbnail" : {
+      "borderColor": "#f5f5f5",
+      "borderRadius": "0px"
+     }
+  },
+  "viewerTheme": {
+    "background": "#000",
+    "barBackground": "rgba(4, 4, 4, 0.2)",
+    "barBorder": "0px solid #000",
+    "barColor": "#fff",
+    "barDescriptionColor":"f5f5f5"
+  }
+}
