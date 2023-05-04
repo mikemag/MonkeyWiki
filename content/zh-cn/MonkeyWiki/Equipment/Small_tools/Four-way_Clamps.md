@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Four-way_Clamps/zh-cn
 translatedDate: "2019-04-02T15:20:16Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 通过使用像这里图中所示的简单“四向”夹具，可以更容易地夹紧一半的芯坯或类似物。我使用[WoodRiver夹紧系统](http://www.woodcraft.com/Product/2000321/1858/WoodRiver-Clamping-System.aspx)，可以从亚马逊或[WoodCraft](http://www.woodcraft.com/)等地方购买。你需要六到七个来夹住一个板芯，所以寻找他们的销售。
 

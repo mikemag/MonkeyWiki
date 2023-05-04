@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Epoxy/zh-cn
 translatedDate: "2019-04-04T08:21:21Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/Epoxy1.JPG" >}}
 {{< img src="images/Epoxy2.JPG" >}}

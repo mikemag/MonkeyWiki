@@ -1,6 +1,6 @@
 ---
 dateFromWiki: "2011-07-09T08:30:03Z"
-title: "Monkey Wiki:General disclaimer"
+title: "Disclaimer"
 aliases:
 - /MonkeyWiki/Monkey_Wiki_General_disclaimer
 - /MonkeyWiki/Monkey_Wiki_General_disclaimer/en

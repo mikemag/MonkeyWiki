@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Finishing_a_wood_veneer_top_sheet/zh-cn
 translatedDate: "2019-04-12T07:48:25Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 我们在Happy Monkey提供的顶片选项之一是鸟眼枫木木皮。它看起来很漂亮，也相当耐用（虽然不如ABS顶片耐用），如果需要，它可以随着时间的推移进行修补。然而，实际完成顶片工作是一个耗时的过程。
 

@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Routers_and_laminate_trimmers/zh-cn
 translatedDate: "2019-04-04T07:06:25Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/CNC_Head1.jpg" caption="_Porter Cable router as head of CNC machine._" >}}
 {{< img src="images/Trimmer1.jpg" caption="_带倾斜底座的修边机_" >}}

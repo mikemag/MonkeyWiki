@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Building_a_stack/zh-cn
 translatedDate: "2019-04-10T02:53:35Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 一旦木板准备就绪，下一步就是对它们进行分类并找到9块合理的木板来制造芯坯。木板不必完全笔直。如果他们都以同样的方式弯曲，那也很好。如果芯坯两端有点弯曲，我们可以稍后纠正它。 
 

@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Wood_selection__drying__and_prep/zh-cn
 translatedDate: "2020-04-28T09:29:58Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/Core_Wood.JPG" caption="_来自西雅图康普顿的杨木材_" >}}你可以用几乎任何类型的木材制作空白板。我在空白板使用的唯一木材是杨木。在[白蜡木桁条和边墙]({{< ref "MonkeyWiki/Construction/Core_construction/Ash_edge_stringer_and_sidewalls.md" >}})这篇文章中，我会在板芯边缘添加一点白蜡木条。许多人在整个板芯中以不同的方式使用各种类型的木材组合。几乎任何事都可行，所以要有创意。
 

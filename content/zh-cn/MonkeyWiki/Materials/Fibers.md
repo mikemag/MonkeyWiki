@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Fibers/zh-cn
 translatedDate: "2020-04-28T09:25:31Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 
 ==玻璃纤维==

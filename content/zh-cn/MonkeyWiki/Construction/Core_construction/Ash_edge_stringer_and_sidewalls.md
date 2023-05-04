@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Ash_edge_stringer_and_sidewalls/zh-cn
 translatedDate: "2019-04-16T12:23:51Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 我沿着有效边刃的长度放置一个PTEX边墙和一个2厘米宽的白蜡木条。为了使其与板的侧面和厚度轮廓完美匹配，作为该过程的第一步，将该材料添加到芯坯中。将芯坯放置在CNC机床上，并通过坯料钻入对准孔并进入CNC工作台。这允许我从表中移除空白并在以后完美地重新定位它。然后沿着将成为板芯的有效边刃的沟槽布线。这些沟槽的宽度足以将白蜡木条和PTEX边墙固定在一起。
 

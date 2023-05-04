@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Monkey_Press_Construction/zh-cn
 translatedDate: "2019-04-17T09:26:41Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 这是我的气动压力机的详细概述，如果适用，还有部件号。 
 

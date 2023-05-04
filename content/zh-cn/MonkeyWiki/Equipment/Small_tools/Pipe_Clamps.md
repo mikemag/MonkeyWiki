@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Pipe_Clamps/zh-cn
 translatedDate: "2020-04-28T09:20:45Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 管夹可用于制造芯坯。它们在长距离上施加合理的力，并且可以通过使用不同的管道将它们制成任何长度。根据同一管道上的不同夹紧宽度，可轻松调节端部。我在夹子的两侧增加了2” x 2” x 12” 橡木套管，以便在更大的区域内分配夹紧力。
 

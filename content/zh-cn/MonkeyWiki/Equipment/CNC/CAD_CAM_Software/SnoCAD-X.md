@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/SnoCAD-X/zh-cn
 translatedDate: "2019-04-10T02:38:57Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 snoCAD-X是一个用于设计滑雪板的开源CAD程序。它由格拉夫滑雪板的Dan Graf于2007年编写，并从那时起被广泛使用。2014年，它在GitHub上开源，以便让更大的滑雪板制造社区继续前进。
 

@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/HVLP_Sprayer/zh-cn
 translatedDate: "2019-04-23T03:03:34Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 HVLP（高容量低压）喷涂系统非常适合喷涂各种表面处理。对于滑雪板，我使用Fuji Q3 Pro HVLP喷雾器，拍摄系统三WR-LPU聚氨酯面漆，在透明缎面，切割20-25％w /水。这样可以在板上涂上光滑，均匀的涂层，最大限度地减少混乱和清理。该喷枪易于使用且熟悉，喷涂模式易于调节。 
 

@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Base_grinder/zh-cn
 translatedDate: "2019-04-04T08:56:10Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/Grinder10.JPG" caption="_Fontaine 1404 Base Grinder._" >}}我使用Fontaine 1404板底磨床，由Wintersteiger出售，型号为SNB 55。它使用14“x 59”(35.56cm x 149.86cm)的皮带。电机是一个4马力的Leeson，它有一个带有可调式喷雾器的小型240v水泵。它就像任何普通的带式砂光机一样，带有驱动轮和从动件，以及用于调节跟踪的旋钮。驱动轮是一种坚硬的橡胶，它会变形一点，很适合用不完美的底座完成底板。在中心附近有一个压板（在这台机器上是可选的），这种压板非常平坦，可以使基座真实。在集水盆和皮带之间有一个布料过滤器，用于将金属和基材保持在泵外。
 

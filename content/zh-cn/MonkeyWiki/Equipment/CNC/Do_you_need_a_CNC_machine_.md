@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Do_you_need_a_CNC_machine_/zh-cn
 translatedDate: "2019-05-04T10:46:11Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 很多人都看到了CNC机器，并认为他们会让他们更快，更准确地做一些事情，或者让他们做一些他们不能手工完成的事情。这些都是很棒的目标，而且它们是可以实现的，但就像生活中的所有事情一样，都有权衡。
 

@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Deflection_Testing_Jig/zh-cn
 translatedDate: "2019-04-03T13:30:27Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 我喜欢测量的一件事（除了[[Special:MyLanguage/Weights_and_fiber_fraction|各种重量]]）是每个板在中心固定重量时偏转了多少。我做了一个简单的夹具，我可以放置条形以支撑有效边缘末端的板。我使用25磅的重量（因为这是我第一次做的时候我躺在那里），并且一个表盘悬挂在有效边缘的中心上方。有趣的是，这与（或不是）这与板芯厚度，长度，宽度，不同玻璃重量以及它在山上的天数如何变化（或不变化）有关。
 

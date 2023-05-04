@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Press_heat_control_and_thermocouples/zh-cn
 translatedDate: "2019-04-10T02:45:51Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/Press_HeatControllerOutside.JPG" caption="_Heat controller on the Monkey Press._" >}}这是我气动压力机上加热系统的详细概述。
 

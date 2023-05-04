@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Weights_and_fiber_fraction/zh-cn
 translatedDate: "2019-04-11T05:36:57Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 关于完成的滑雪板的重量，总会出现许多问题。它必须像它一样重吗？它的重量合理吗？尝试减重的最佳方法是什么？在你对某些问题进行调查之后，不可避免地会出现另一个问题：滑雪板是否包含合理数量的环氧树脂？
 

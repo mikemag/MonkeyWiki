@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Router_Bits/zh-cn
 translatedDate: "2020-01-30T13:19:27Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/RouterBits1.JPG" caption="_雕刻机刀具._" >}}{{< img src="images/RouterBits2.JPG" >}}我非常喜欢来自[Amana Tool](http://amanatool.com/)的刀具。一个高质量的刀具确实有很大的不同。这些都很好地平衡了，使工具更安静，并产生了更平滑的切割。
 

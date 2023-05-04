@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Cleanup_after_inlay__and_final_blank_sizing/zh-cn
 translatedDate: "2019-04-08T22:34:16Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 胶水干燥后，空白板必须清理干净。必须刮去多余的胶水，并且必须使用刨刀在两侧完全平滑坯料。为了从压刨中获得良好的第一次通过，白蜡木条和PTEX上的任何高点都需要用短刨手动刨除掉。一旦空白板在压刨中完成，底座就完成了。没有进一步平滑，它必须是完全平坦的。我非常注意保持压刨良好的工作状态，并确保底座上的最终通道很轻。这给了我高质量的表面。
 

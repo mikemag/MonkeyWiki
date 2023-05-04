@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Woodworking_Resources/zh-cn
 translatedDate: "2020-04-28T09:26:47Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 许多滑雪板制造涉及使用木材。如果你想建立自己的芯坯，甚至完成一个成型的板芯，那么你应该更熟悉一般的木工。有一些令人眼花缭乱的木工资源，所以这个页面收集了我最喜欢的一些，特别适用于滑雪板制造。
 

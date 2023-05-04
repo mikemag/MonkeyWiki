@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Construction_Overview/zh-cn
 translatedDate: "2019-04-17T08:53:08Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 以下文章介绍了制造滑雪板的过程，假设你拥有可用的[设备概述]({{< ref "MonkeyWiki/Equipment/Equipment_Overview.md" >}})和[材料概述]({{< ref "MonkeyWiki/Materials/Materials_Overview.md" >}})。 
 

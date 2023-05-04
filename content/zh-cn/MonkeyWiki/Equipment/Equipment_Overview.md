@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Equipment_Overview/zh-cn
 translatedDate: "2019-04-08T14:55:01Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 以下文章涵盖了制造滑雪板所需的设备。其中一些可以从普通五金店购买，有些必须由你建造。有些是绝对必需的，而其他（如CNC机器）是可选的。你真正需要哪些将取决于你选择制造滑雪板的方式以及你可以获得的原材料。例如，如果你从某人那里购买板芯，那么你可能并不需要大多数较大的木工工具。如果你愿意用手完全弯曲边刃，那么你就不需要专门的弯边机等。
 

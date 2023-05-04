@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Suppliers/zh-cn
 translatedDate: "2019-04-17T09:24:32Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 
 ## 家庭作坊

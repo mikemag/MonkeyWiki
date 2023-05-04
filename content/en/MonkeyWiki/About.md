@@ -1,6 +1,6 @@
 ---
 dateFromWiki: "2011-07-17T20:33:46Z"
-title: "Monkey Wiki:About"
+title: "About"
 aliases:
 - /MonkeyWiki/Monkey_Wiki_About
 - /MonkeyWiki/Monkey_Wiki_About/en

@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Bases__edges__and_nose_tail_spacers/zh-cn
 translatedDate: "2019-04-16T08:46:51Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 带有边刃的板底定义了滑雪板的最终形状。在层压后修剪板时，边刃用作引导。板头和板尾垫片用于板头和板尾上的边墙。这些超出了滑雪板的有效边刃的范围。
  

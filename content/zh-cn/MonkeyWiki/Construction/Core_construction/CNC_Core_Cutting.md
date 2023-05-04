@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/CNC_Core_Cutting/zh-cn
 translatedDate: "2019-04-22T08:31:33Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 本文概述了我在CNC机床上成型板芯时使用的所有步骤，从[嵌体后清理，最后空白板定型]({{< ref "MonkeyWiki/Construction/Core_construction/Cleanup_after_inlay__and_final_blank_sizing.md" >}})沿着有效边缘镶嵌。空白板在嵌入过程中留有定位孔，这使我可以在CNC机床上正确地重新定位零件。
 

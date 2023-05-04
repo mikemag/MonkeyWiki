@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Joining_the_halves_of_a_core_blank/zh-cn
 translatedDate: "2019-04-10T02:51:16Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 创建空白板的最后阶段是从 [切割芯坯]({{< ref "MonkeyWiki/Construction/Core_blank_construction/Slicing_a_stack.md" >}})中拼接一对匹配的切片，以形成大约14英寸(35.56cm)宽的空白板。（当然，如果你正在构建滑雪双板，那么你不需要执行此步骤，因为一个切片足够宽，足以用于单个滑雪双板！）空白板将与芯坯一样长，这将至少容纳一块180厘米长的板子。我每季都会制作一块芯坯，这样可以生产长达200厘米的木板，但这些木板的使用频率较低。坯料的厚度由切片的厚度决定，目标是至少0.400英寸(1.016cm)厚，以允许通过在形成最终板芯时所需的压刨的额外通过。
 

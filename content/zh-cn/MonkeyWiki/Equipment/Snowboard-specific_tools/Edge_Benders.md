@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Edge_Benders/zh-cn
 translatedDate: "2019-04-03T13:42:01Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 边刃完全可以用手进行弯曲，但一些简单的工具可以帮助你保护手指。 
 

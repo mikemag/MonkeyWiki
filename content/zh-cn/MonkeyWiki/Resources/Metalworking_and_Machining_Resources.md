@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Metalworking_and_Machining_Resources/zh-cn
 translatedDate: "2019-04-17T09:21:31Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 滑雪板制造所需的大多数专用工具和设备必须由你自己制造。这往往涉及一些金属加工和机械加工。 
 

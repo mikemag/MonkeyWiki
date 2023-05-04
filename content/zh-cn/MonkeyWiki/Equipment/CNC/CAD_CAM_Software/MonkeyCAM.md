@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/MonkeyCAM/zh-cn
 translatedDate: "2020-04-28T09:18:37Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 MonkeyCAM v4.0是一个开源的CAD/CAM程序，用于设计滑雪板，并生成G-code程序，然后用CNC机器切割滑雪板部件。 
 

@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Fusion_360/zh-cn
 translatedDate: "2019-03-25T04:46:56Z"
 translator: "X z"
-translatorPage: "/zh-cn/MonkeyWiki/X_z.md"
+translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 [Fusion 360](https://www.autodesk.com/products/fusion-360)是一个非常好的CAD/CAM系统，对于“业余爱好者和初创公司”是免费的。我用它做了一些模具设计，而且非常好。它是目前免费CAD/CAM软件的最佳推荐。
 
