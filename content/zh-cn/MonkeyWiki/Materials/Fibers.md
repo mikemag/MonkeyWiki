@@ -45,11 +45,11 @@ Vectorply对于这些应用的织造和缝合织物之间的差异有一个很�
 
 - [Vectorply](http://www.vectorply.com/) [E-TLX 2200](http://vectorply.com/wp-content/uploads/2015/06/E-TLX-22001.pdf)
 - [Vectorply](http://www.vectorply.com/) [E-TLX-1900](http://vectorply.com/wp-content/uploads/2015/06/E-TLX-19001.pdf)
-- Kevlar, biax, woven, 1.70 oz./yd.<sup>2</sup> (58 g/m<sup>²</sup>) Warp 34 Kevlar 49 195 Denier x Fill 34 Kevlar 49 195 Denier, Plain Weave, 3.0 mils (.08 mm) Thickness.
-- Kevlar, unidirectional, heat set binder, 0.010" x 1", 6.8 oz./yd.<sup>2</sup>.
-- Carbon Fiber, unidirectional, heat set binder, 0.008" x 1", 5.3 oz./yd.<sup>2</sup>.
-- Carbon Fiber, unidirectional, 0.007" x 2.25", [Hexcel HexForce GA045](https://www.hexcel.com/user_area/content_media/raw/DSF_ga045.pdf), 4.4 oz./yd.<sup>2</sup>, 6k.
-- Carbon Fiber, unidirectional, 0.010" x 12", Hexcel GA060, 6.7 oz./yd.<sup>2</sup> (227 g/m<sup>2</sup>), Warp 7 12K Carbon x Fill 4 Proprietary Heatset, Plain Weave, 10.1 mils (.26 mm) Thickness.  
+- Kevlar, biax, woven, 1.70 oz./yd.² (58 g/m²) Warp 34 Kevlar 49 195 Denier x Fill 34 Kevlar 49 195 Denier, Plain Weave, 3.0 mils (.08 mm) Thickness.
+- Kevlar, unidirectional, heat set binder, 0.010" x 1", 6.8 oz./yd.².
+- Carbon Fiber, unidirectional, heat set binder, 0.008" x 1", 5.3 oz./yd.².
+- Carbon Fiber, unidirectional, 0.007" x 2.25", [Hexcel HexForce GA045](https://www.hexcel.com/user_area/content_media/raw/DSF_ga045.pdf), 4.4 oz./yd.², 6k.
+- Carbon Fiber, unidirectional, 0.010" x 12", Hexcel GA060, 6.7 oz./yd.² (227 g/m²), Warp 7 12K Carbon x Fill 4 Proprietary Heatset, Plain Weave, 10.1 mils (.26 mm) Thickness.  
 - Carbon Fiber, raw tow, [roll from EBay long ago](https://www.ebay.com/itm/AMOCO-CYTEC-THORNEL-P-100-2K-HIGH-STIFFNESS-CARBON-GRAPHITE-FIBER-TOW-THREAD/263531049599?epid=7015814399&hash=item3d5bacb27f:g:Cg0AAOSwURxam~hQ), Aomco Performance Products, Inc., P100-2K, grade 304-NT, 1.02lbs, 4800ft, 0.003-0.004" x ~3mm. 110 Msi, 348 ksi, 10 um filament diameter, 2880 denier / 3200 dtex (0.32 g/m). 
 
 ## 安全 
