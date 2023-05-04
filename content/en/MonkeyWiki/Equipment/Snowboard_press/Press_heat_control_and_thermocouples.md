@@ -52,67 +52,41 @@ I don’t actually want to provide precise schematics or electrical advice here.
 
 
 ### PID Controller 
-I use an Auber PID controller with the “ramp/soak” feature. The manuals are here: [[File:Auber SYL Part1.pdf|File:Auber SYL Part1.pdf]], [[File:Auber SYL Part2.pdf|File:Auber SYL Part2.pdf]]
+I use an Auber PID controller with the “ramp/soak” feature. The manuals are here: 
+[Auber SYL Part1.pdf](/files/Auber_SYL_Part1.pdf), 
+[Auber SYL Part2.pdf](/files/Auber_SYL_Part2.pdf)
 
 Configuring these is a bit of a pain sometimes. Read the manual, and let it auto tune at least once with an old snowboard in the press under reasonable pressure. This will better simulate the thermal characteristics of your laminate and the auto-tune will do a better job.
 
 For reference, here are the values for all parameters in my controller:
 
-{| class="wikitable"
-|-
-!Setting
-!Value
-|-
-!ALM1!!225
-|-
-!ALM2!!32
-|-
-!Hy-1!!10
-|-
-!Hy-2!!9999
-|-
-!Hy!!0.3
-|-
-!At!!3
-|-
-!I!!83
-|-
-!P!!74
-|-
-!d!!3
-|-
-!T!!2
-|-
-!Sn!!0
-|-
-!DP!!0
-|-
-!P-SL!!-100
-|-
-!P-SH!!2500
-|-
-!Pb!!0.0
-|-
-!OP-A!!0
-|-
-!OutL!!0
-|-
-!OutH!!100
-|-
-!AL-P!!17
-|-
-!Cool!!10
-|-
-!Addr!!1
-|-
-!Baud!!4800
-|-
-!FILt!!6
-|-
-!A-M!!2
-|-
-!Lock!!808
-|}
+| Setting | Value |
+| ------- | ----- |
+| ALM1 | 225 |
+| ALM2 | 32 |
+| Hy-1 | 10 |
+| Hy-2 | 9999 |
+| Hy | 0.3 |
+| At | 3 |
+| I | 83 |
+| P | 74 |
+| d | 3 |
+| T | 2 |
+| Sn | 0 |
+| DP | 0 |
+| P-SL | -100 |
+| P-SH | 2500 |
+| Pb | 0.0 |
+| OP-A | 0 |
+| OutL | 0 |
+| OutH | 100 |
+| AL-P | 17 |
+| Cool | 10 |
+| Addr | 1 |
+| Baud | 4800 |
+| FILt | 6 |
+| A-M | 2 |
+| Lock | 808 |
 
 
 ## Thermocouples 

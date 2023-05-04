@@ -10,7 +10,7 @@ Snowboard cores are typically composed of vertically laminated strips of wood ab
 Making a core blank is a fairly classic woodworking process, and you should approach it as such. If you’re new to woodworking I have collected a lot of [Woodworking Resources]({{< ref "MonkeyWiki/Resources/Woodworking_Resources.md" >}}) to help you get started. 
 
 ## Overview 
-For snowboard cores, I build blanks that are about 13.5” wide, 0.400" thick, and about 6-7’ long. Each blank has 18 strips of poplar running lengthwise. The blank is held together with [[Special:MyLanguage/Polyurethane glue|Polyurethane glue]].
+For snowboard cores, I build blanks that are about 13.5” wide, 0.400" thick, and about 6-7’ long. Each blank has 18 strips of poplar running lengthwise. The blank is held together with Polyurethane glue.
 
 The process starts with poplar boards which are a bit over 7’ long, 2.5” wide, and approximately 3/4" thick. Nine of these boards are glued into a stack 7’ long, 2.5” wide, and 6.75” thick. The stack is sliced into 4 planks each 7’ long, 6.75” wide, and about 1/2" thick. Two slices are then joined together to make a blank 7’ long, 13.5” wide, and 0.400-0.500" thick. 
 

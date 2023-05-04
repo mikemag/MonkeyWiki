@@ -8,7 +8,7 @@ aliases:
 ---
 {{< img src="images/Core_Wood.JPG" caption="_Poplar from Compton Lumber in Seattle._" >}}You can make a core blank out of pretty much any type of wood. The only wood I use in my blanks is poplar; I add a bit of ash along the edge of the core later when [Ash edge stringer and sidewalls]({{< ref "MonkeyWiki/Construction/Core_construction/Ash_edge_stringer_and_sidewalls.md" >}}). Many people use combinations of various types of wood throughout the core, in different patterns. Almost anything will work, so be creative.
 
-{{< img src="images/ Core_Wood_Clear.JPG" caption="_Clear poplar._" >}}No matter which type of wood you use, selecting quality boards is critical. You want clear boards with even grain, no knots, and preferably as straight as possible. Ideally all of the boards should be a bit longer than the final core blank length.
+{{< img src="images/Core_Wood_Clear.JPG" caption="_Clear poplar._" >}}No matter which type of wood you use, selecting quality boards is critical. You want clear boards with even grain, no knots, and preferably as straight as possible. Ideally all of the boards should be a bit longer than the final core blank length.
 
 The best place to source your core wood is a dedicated lumber yard that sells rough cut wood. It is rarely cost-effective to get your wood at a big-box store like Home Depot or Lowes, even if they have the wood you want. In the Seattle area there are many excellent options. I always get my core wood from [Compton Lumber](http://www.comptonlbr.com/). They have an excellent selection of rough poplar as well as poplar already machined to the size I need. I also get my ash from them, always rough cut. You can spend the time at a place like Compton to pick through their stacks of wood and find just the boards you’re looking for. 
 
@@ -16,7 +16,7 @@ Other good choices in the Seattle area are [Crosscut Hardwoods](http://www.cross
 
 Purchasing wood from a real hardwood supplier is often confusing. There are a lot of odd terms that you may not initially be familiar with. [The Language of the Lumberyard](https://www.finewoodworking.com/2011/07/28/the-language-of-the-lumberyard) at Fine Woodworking is a good introduction to the topic, as is the video blog entry [A Lumbering Feeling](http://thewoodwhisperer.com/episode-4-a-lumbering-feeling/) from The Wood Whisperer.
 
-{{< img src="images/ Core Wood Blemish1.JPG " caption="_Knots at the ends can be okay._" >}}You want FAS (firsts and seconds), as clear as possible, and straight with minimal twisting or bowing. If you want it already prepared so you don’t need to do much work to the wood get S4S (surfaced on four sides). Note that if a board has a knot or other blemish near the end it may be alright. Often blanks come out much longer than they need to be and a knot near the end would not be included in the final core when cut.
+{{< img src="images/Core_Wood_Blemish1.JPG" caption="_Knots at the ends can be okay._" >}}You want FAS (firsts and seconds), as clear as possible, and straight with minimal twisting or bowing. If you want it already prepared so you don’t need to do much work to the wood get S4S (surfaced on four sides). Note that if a board has a knot or other blemish near the end it may be alright. Often blanks come out much longer than they need to be and a knot near the end would not be included in the final core when cut.
 
 
 ## Preparing the boards 

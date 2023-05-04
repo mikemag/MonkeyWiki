@@ -31,7 +31,7 @@ A fine spray of clean water on the boards adds a bit of moisture, which will hel
 
 
 
-I use [[Special:MyLanguage/Polyurethane glue|Polyurethane glue]] for my stacks because it has a reasonably long working time. It will take about 15 min to actually get a single stack clamped up. I take the cap off the bottle and pour a bead of glue down the entire length of the first board. Then, I spread it with a plastic spreader the same way I spread epoxy during layup. (I use old bits of base material as a spreader here.) 
+I use Polyurethane glue for my stacks because it has a reasonably long working time. It will take about 15 min to actually get a single stack clamped up. I take the cap off the bottle and pour a bead of glue down the entire length of the first board. Then, I spread it with a plastic spreader the same way I spread epoxy during layup. (I use old bits of base material as a spreader here.) 
 
 It takes some practice to start to recognize how much glue to apply in a single pass. Start with too little and add more but don’t take too much time as there are seven more applications to make. Take the next board and lay it in place on top of the first one, then rinse and repeat. Once the final board is in place, you’ll have a gooey stack ready to be clamped. 
 

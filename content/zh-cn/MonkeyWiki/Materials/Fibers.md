@@ -19,7 +19,9 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 
 Vectorply对于这些应用的织造和缝合织物之间的差异有一个很好的页面。这是他们页面的一个很好的总结：
 
-<blockquote><q>编织中固有的纱线卷曲会在层压板中产生应力点，并随后导致强度和刚度下降。英镑非卷曲增强材料的强度比机织织物强30％。其次，由于纤维与纤维的接触较少，由纤维编织产生的粗糙表面转化为差的剪切性能。 第三，由编织产生的间隙允许树脂在粗纱中聚集，从而导致较低的性能，增加了不必要的重量和成本。</q><ref name=“vectorply1” /></ blockquote>
+> 编织中固有的纱线卷曲会在层压板中产生应力点，并随后导致强度和刚度下降。英镑非卷曲增强材料的强度比机织织物强30％。其次，由于纤维与纤维的接触较少，由纤维编织产生的粗糙表面转化为差的剪切性能。 第三，由编织产生的间隙允许树脂在粗纱中聚集，从而导致较低的性能，增加了不必要的重量和成本。
+
+-- *Vectorply. (n.d.). Stitch-Bonded Reinforcements. Retrieved from http://vectorply.com/stitch-bonded-reinforcements/ on 2019/02/08.*
 
 ## 碳纤维和凯夫拉纤维
 {{< img src="images/Fibers9.JPG" >}}除了玻璃纤维，我还在各个地方使用凯夫拉纤维和碳纤维。每块板都有一层非常轻的凯夫拉编织衬垫。并且，是的，刚刚解释了为什么机织织物在滑雪板上不好，这种轻型凯夫拉织物的这种小型应用在这个领域是正常的，因为它接受的弯曲很小。插入插入物的凯夫拉贴片提供了更强的插入物保持力，并且大大减少了“结合吸收”：当固定器被收紧时，固定器下面的基部倾向于吸入板芯的现象。
@@ -58,9 +60,3 @@ Vectorply对于这些应用的织造和缝合织物之间的差异有一个很�
 
 - [Tow](https://en.wikipedia.org/wiki/Tow)  - 用于编织织物的原纤维线，即无捻的连续长丝束。 2K丝束是2000个丝线。
 - [Denier](https://en.wikipedia.org/wiki/Units_of_textile_measurement#Denier)  - 单个线程的纤维厚度。  
-
-## References
-<references>
-<ref name="vectorply1">Vectorply. (n.d.). Stitch-Bonded Reinforcements. Retrieved from http://vectorply.com/stitch-bonded-reinforcements/ on 2019/02/08.</ref>
-</references>
-

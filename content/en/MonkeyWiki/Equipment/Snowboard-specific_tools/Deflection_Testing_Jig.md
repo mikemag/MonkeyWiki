@@ -6,9 +6,15 @@ aliases:
 - /MonkeyWiki/Deflection_Testing_Jig
 - /MonkeyWiki/Deflection_Testing_Jig/en
 ---
-One of the things I like to measure (aside from the [[Special:MyLanguage/Weights_and_fiber_fraction|various weights]]) is how much each board deflects given a fixed weight at the center. I've made a simple jig for doing that, with bars I can place to support the board at the ends of the effective edge. I use a 25lb weight (because that's what I had lying around when I first did this), and a dial indicator suspended over the center of the effective edge. It's been interesting to see how well (or not) this correlates to core thickness, length, width, different weights of glass, and how it changes (or not) with days on the hill.
+One of the things I like to measure (aside from 
+the [various weights]({{< ref "MonkeyWiki/Construction/Measurement_and_testing/Weights_and_fiber_fraction.md" >}}))
+is how much each board deflects given a fixed weight at the center. I've made a simple jig for doing that, with bars I can 
+place to support the board at the ends of the effective edge. I use a 25lb weight (because that's what I had lying around when 
+I first did this), and a dial indicator suspended over the center of the effective edge. It's been interesting to see how well 
+(or not) this correlates to core thickness, length, width, different weights of glass, and how it changes (or not) with days on the hill.
 
-Note that this is a static deflection test with a single weight. It is not by any stretch a comprehensive measurement of the boards flexural properties. Consider this a small start.
+Note that this is a static deflection test with a single weight. It is not by any stretch a comprehensive measurement of the 
+boards flexural properties. Consider this a small start.
 
 
 {{< gallery  caption="Static Deflection Test Jig" >}}

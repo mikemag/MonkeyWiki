@@ -17,7 +17,7 @@ The mold is adjustable for different effective edge lengths, and different nose/
 The press is designed to handle boards up to 200cm long with ease. It’s built out of steel W12x40 I-beams that are 12” high, 8” wide, 9’ long and weigh 40lbs/ft. There are two beams side-by-side on the top and bottom for a cavity width of 16”. The top beams are supported by two 16” long beams turned on their sides for a cavity height of 12”. That puts the total weight of just the I-beam material in the press at 1,547lbs.
  
 ### Deflection 
-{{< img src="images/IMG 20190322 185635.jpg" caption="_Measuring deflection_" >}}
+{{< img src="images/IMG_20190322_185635.jpg" caption="_Measuring deflection_" >}}
 I have used a very common press design, and a frequent concern with this design is how much it deflects under pressure. 
 
 The short answer: 1.1938mm (0.047") in the center @ 50psi. 

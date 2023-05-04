@@ -58,72 +58,43 @@ The contactor with panel-mount switch is part #SD1-025-RR from [Automation Direc
 
 ### PID控制器
 
-我使用具有“斜坡/浸泡”功能的Auber PID控制器。手册如下：[[File：Auber SYL Part1.pdf | File：Auber SYL Part1.pdf]]，[[File：Auber SYL Part2.pdf | File：Auber SYL Part2.pdf]]
+我使用具有“斜坡/浸泡”功能的Auber PID控制器。手册如下：
+[Auber SYL Part1.pdf](/files/Auber_SYL_Part1.pdf), 
+[Auber SYL Part2.pdf](/files/Auber_SYL_Part2.pdf)
 
 有时配置这些有点痛苦。阅读说明书，并在合理的压力下使用压力机中的旧滑雪板至少自动调整一次。这样可以更好地模拟层压板的热特性，自动调谐可以做得更好。
 
 作为参考，以下是我的控制器中所有参数的值：
 
-{| class="wikitable"
-|-
-!Setting
-!Value
-|-
-!ALM1!!225
-|-
-!ALM2!!32
-|-
-!Hy-1!!10
-|-
-!Hy-2!!9999
-|-
-!Hy!!0.3
-|-
-!At!!3
-|-
-!I!!83
-|-
-!P!!74
-|-
-!d!!3
-|-
-!T!!2
-|-
-!Sn!!0
-|-
-!DP!!0
-|-
-!P-SL!!-100
-|-
-!P-SH!!2500
-|-
-!Pb!!0.0
-|-
-!OP-A!!0
-|-
-!OutL!!0
-|-
-!OutH!!100
-|-
-!AL-P!!17
-|-
-!Cool!!10
-|-
-!Addr!!1
-|-
-!Baud!!4800
-|-
-!FILt!!6
-|-
-!A-M!!2
-|-
-!Lock!!808
-|}
-
+| Setting | Value |
+| ------- | ----- |
+| ALM1 | 225 |
+| ALM2 | 32 |
+| Hy-1 | 10 |
+| Hy-2 | 9999 |
+| Hy | 0.3 |
+| At | 3 |
+| I | 83 |
+| P | 74 |
+| d | 3 |
+| T | 2 |
+| Sn | 0 |
+| DP | 0 |
+| P-SL | -100 |
+| P-SH | 2500 |
+| Pb | 0.0 |
+| OP-A | 0 |
+| OutL | 0 |
+| OutH | 100 |
+| AL-P | 17 |
+| Cool | 10 |
+| Addr | 1 |
+| Baud | 4800 |
+| FILt | 6 |
+| A-M | 2 |
+| Lock | 808 |
 
 ## 热电偶
-
- 
 
 {{< img src="images/Press_Thermo84.JPG" caption="_Thermocouples used on the Monkey Press._" >}}热电偶来自[Omega](http://www.omega.com)，部分＃5SRTC-TT-K-36-36适用于5型 K个热电偶和＃RMJ-KS用于控制箱上的连接器。热电偶为36AWG（0.005“），因此足够小，可以直接放在热毯的顶部而不会损坏橡皮布。我在每个毯子上放置一个，传感器末端在毯子的中心。底部的热电偶连接到斜坡/保温PID控制器，而顶部的热电偶仅用于监控层压板两侧之间的温差。
 
@@ -137,10 +108,6 @@ The contactor with panel-mount switch is part #SD1-025-RR from [Automation Direc
 {{< gallery-item src="images/Press_Controller68.JPG" caption="Thermocouple connectors on the heat controller on the Monkey Press." >}}
 {{< /gallery >}}
 
-
-
 ## 另见
 
 - [Monkey 压力机制造]({{< ref "MonkeyWiki/Equipment/Snowboard_press/Monkey_Press_Construction.md" >}})
-
-

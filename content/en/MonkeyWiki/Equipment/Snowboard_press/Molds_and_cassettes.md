@@ -33,7 +33,7 @@ Cassettes and skins
 
 ## Molds for Pneumatic Presses
 
-{{< img src="images/Mold Model Full.jpg" caption="_Full pneumatic mold model_" >}}
+{{< img src="images/Mold_Model_Full.jpg" caption="_Full pneumatic mold model_" >}}
 
 I've been doing more with Fusion 360, and in preparation for making some new molds I went ahead and modeled my current mold in full detail.
 
@@ -44,12 +44,12 @@ I've been doing more with Fusion 360, and in preparation for making some new mol
 If you follow each link you'll get a 3D model you can play with a bit in your web browser. Try the Explode Model button on the full mold model just for fun. This will all work from your phone, too.
 
 Downloadable model files:
-- [[File:Snowboard_Mold_Basic_Public_v18.f3z]]
-- [[File:Snowboard_Mold_Basic_Public_v18.step]]
-- [[File:End_Block_Original_1_Public_v4.f3d]]
-- [[File:End_Block_Original_1_Public_v4.step]]
-- [[File:Camber_Block_Original_Public_v8.f3d]]
-- [[File:Camber_Block_Original_Public_v8.step]]
+- [Snowboard_Mold_Basic_Public_v18.f3z](/files/Snowboard_Mold_Basic_Public_v18.f3z)
+- [Snowboard_Mold_Basic_Public_v18.step](/files/Snowboard_Mold_Basic_Public_v18.step)
+- [End_Block_Original_1_Public_v4.f3d](/files/End_Block_Original_1_Public_v4.f3d)
+- [End_Block_Original_1_Public_v4.step](/files/End_Block_Original_1_Public_v4.step)
+- [Camber_Block_Original_Public_v8.f3d](/files/Camber_Block_Original_Public_v8.f3d)
+- [Camber_Block_Original_Public_v8.step](/files/Camber_Block_Original_Public_v8.step)
 
 If you're a Fusion 360 user, you'll find that the sketches for the end blocks and camber blocks are fully constrained and parametric. Hit Modify -> Change Parameters to see the major parameters I used to define these. If you tweak them the models will update correctly.
 

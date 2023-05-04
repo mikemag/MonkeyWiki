@@ -11,4 +11,4 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 
 它是免费提供的“对于初创公司每年产生<10万美元的总收入或完全非商业用户。以下是获取免费许可证的详细信息：https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html
 
-See [[Special:MyLanguage/Molds_and_cassettes|Molds and cassettes]] for some examples of Fusion 360 in action.
+See [Molds and cassettes]({{< ref path="MonkeyWiki/Equipment/Snowboard_press/Molds_and_cassettes.md" lang="en" >}}) for some examples of Fusion 360 in action.

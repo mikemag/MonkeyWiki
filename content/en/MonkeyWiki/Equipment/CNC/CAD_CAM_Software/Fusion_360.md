@@ -9,4 +9,4 @@ aliases:
 
 It is offered free for "For startups generating <$100k/year in total revenue or wholly non-commercial users." Here's the details on getting your free license: https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html
 
-See [[Special:MyLanguage/Molds_and_cassettes|Molds and cassettes]] for some examples of Fusion 360 in action.
+See [Molds and cassettes]({{< ref "MonkeyWiki/Equipment/Snowboard_press/Molds_and_cassettes.md" >}}) for some examples of Fusion 360 in action.

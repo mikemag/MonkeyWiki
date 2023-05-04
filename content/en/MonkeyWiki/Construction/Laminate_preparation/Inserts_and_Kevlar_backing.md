@@ -17,8 +17,4 @@ This is a temporary page containing raw, unedited notes on this subject. This pa
 - The standard snowboard binding pattern is 4cm x 4cm, thus the "4x4" you typically see. You can add as many sets as you'd like, but recognize that you're drilling more and more holes in your core, and thru your top layer of glass. quite typical is 4 rows 4cm apart.
   - The "machine gun" pattern is staggering your rows by 2cm, so you have finer options for stance width at the expense of more holes and inserts.
   - There is a standard splitboard pattern developed by Voile. It can be found directly from them here: http://www.voile.com/voile_splitboard_hole_pattern_specs.pdf
-    - I have archived this here: [[File:Voile_splitboard_hole_pattern_specs.pdf|File:Voile_splitboard_hole_pattern_specs.pdf]]
-
-
-
-
+    - I have archived this here: [Voile_splitboard_hole_pattern_specs.pdf](/files/Voile_splitboard_hole_pattern_specs.pdf)

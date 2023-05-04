@@ -21,7 +21,7 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 
 ===偏转===
 
-{{< img src="images/IMG 20190322 185635.jpg" caption="_测量偏差_" >}}我使用了一种非常普通的压力机设计，这种设计经常受到关注，它在压力下会有多大的偏差。 
+{{< img src="images/IMG_20190322_185635.jpg" caption="_测量偏差_" >}}我使用了一种非常普通的压力机设计，这种设计经常受到关注，它在压力下会有多大的偏差。 
 
 简短的回答: 1.1938mm (0.047") in the center @ 50psi. 
 

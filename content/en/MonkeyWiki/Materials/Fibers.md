@@ -15,7 +15,10 @@ I greatly prefer non-woven fabrics for snowboard and ski applications. Weaving c
 
 Vectorply has a good page on the differences between woven and stitched fabrics for these kinds of applications. Here's a good summary from their page:
 
-<blockquote><q>The crimping of yarns, inherent in weaving, causes stress points in the laminate and a subsequent knockdown in strength and stiffness. Pound for pound non-crimp reinforcements are 30% stronger than woven fabrics. Secondly, the coarse surface created by the weaving of fibers translates into poor shear properties because of less fiber-to-fiber contact. Third, the interstices created by the weave allow resin to pool amongst the rovings contributing to lower properties, adding unwanted weight and cost.</q><ref name="vectorply1" /></blockquote>
+> The crimping of yarns, inherent in weaving, causes stress points in the laminate and a subsequent knockdown in strength and stiffness. Pound for pound non-crimp reinforcements are 30% stronger than woven fabrics. Secondly, the coarse surface created by the weaving of fibers translates into poor shear properties because of less fiber-to-fiber contact. Third, the interstices created by the weave allow resin to pool amongst the rovings contributing to lower properties, adding unwanted weight and cost.
+
+-- *Vectorply. (n.d.). Stitch-Bonded Reinforcements. Retrieved from http://vectorply.com/stitch-bonded-reinforcements/ on 2019/02/08.*
+
 
 ## Carbon and Kevlar  
 {{< img src="images/Fibers9.JPG" >}}In addition to the fiberglass, I use Kevlar and carbon fiber in various places. Every board gets a very light weave of Kevlar backing the inserts. And, yes, having just explained why woven fabrics are bad in snowboards, this small application of such a light Kevlar weave is alright in this area as it receives so little flex. A patch of Kevlar which the inserts are pushed through provides stronger insert retention, and greatly reduces “binding suck”: that phenomena where the base underneath the bindings tends to suck in to the core when the bindings are tightened.
@@ -52,10 +55,3 @@ Glass, carbon, and Kevlar fibers are very small and easily penetrate your skin. 
 ## Terms 
 - [Tow](https://en.wikipedia.org/wiki/Tow) - the raw fiber thread used to weave fabrics, i.e., an untwisted bundle of continuous filaments. A 2K tow is 2000 threads.   
 - [Denier](https://en.wikipedia.org/wiki/Units_of_textile_measurement#Denier) - fiber thickness of individual threads.  
-
-## References <references>
-<ref name="vectorply1">Vectorply. (n.d.). Stitch-Bonded Reinforcements. Retrieved from http://vectorply.com/stitch-bonded-reinforcements/ on 2019/02/08.</ref>
-</references>
-
-
-

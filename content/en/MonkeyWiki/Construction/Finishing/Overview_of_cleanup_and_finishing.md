@@ -6,7 +6,7 @@ aliases:
 - /MonkeyWiki/Overview_of_cleanup_and_finishing
 - /MonkeyWiki/Overview_of_cleanup_and_finishing/en
 ---
-{{< img src="images/Board Trimmed.JPG" caption="_Snowboard with edges trimmed and cleaned up._" >}}After the board comes out of the press we still have a lot of cleanup work to be done before it really starts looking like a snowboard.
+{{< img src="images/Board_Trimmed.JPG" caption="_Snowboard with edges trimmed and cleaned up._" >}}After the board comes out of the press we still have a lot of cleanup work to be done before it really starts looking like a snowboard.
  
 
 ## Trimming the flash 
