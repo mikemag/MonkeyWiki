@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:23:33Z"
+dateFromWiki: "2020-04-28T09:23:33Z"
 title: "材料概述"
 aliases:
 - /MonkeyWiki/Materials_Overview/zh-cn

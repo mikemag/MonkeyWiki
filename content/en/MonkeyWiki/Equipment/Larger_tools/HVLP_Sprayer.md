@@ -1,5 +1,5 @@
 ---
-date: "2019-03-31T17:57:01Z"
+dateFromWiki: "2019-03-31T17:57:01Z"
 title: "HVLP Sprayer"
 gallery: true
 aliases:

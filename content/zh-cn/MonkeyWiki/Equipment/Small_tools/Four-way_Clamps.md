@@ -1,5 +1,5 @@
 ---
-date: "2019-04-02T15:20:16Z"
+dateFromWiki: "2019-04-02T15:20:16Z"
 title: "四向夹具"
 gallery: true
 aliases:

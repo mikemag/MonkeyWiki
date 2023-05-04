@@ -1,5 +1,5 @@
 ---
-date: "2019-02-02T07:45:15Z"
+dateFromWiki: "2019-02-02T07:45:15Z"
 title: "Core blank overview"
 aliases:
 - /MonkeyWiki/Core_blank_overview

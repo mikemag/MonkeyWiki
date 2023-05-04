@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T19:07:55Z"
+dateFromWiki: "2019-03-23T19:07:55Z"
 title: "Final cleanup and sidewall preparation"
 aliases:
 - /MonkeyWiki/Final_cleanup_and_sidewall_preparation

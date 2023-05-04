@@ -1,5 +1,5 @@
 ---
-date: "2019-04-23T03:03:34Z"
+dateFromWiki: "2019-04-23T03:03:34Z"
 title: "HVLP喷雾器"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-02-12T01:41:23Z"
+dateFromWiki: "2019-02-12T01:41:23Z"
 title: "Wood selection, drying, and prep"
 gallery: true
 aliases:

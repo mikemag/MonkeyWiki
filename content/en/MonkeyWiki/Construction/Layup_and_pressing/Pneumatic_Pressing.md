@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T20:06:27Z"
+dateFromWiki: "2019-03-23T20:06:27Z"
 title: "Pneumatic Pressing"
 aliases:
 - /MonkeyWiki/Pneumatic_Pressing

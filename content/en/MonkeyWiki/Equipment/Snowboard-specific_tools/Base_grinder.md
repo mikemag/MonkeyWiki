@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:36:55Z"
+dateFromWiki: "2019-02-03T02:36:55Z"
 title: "Base grinder"
 gallery: true
 aliases:

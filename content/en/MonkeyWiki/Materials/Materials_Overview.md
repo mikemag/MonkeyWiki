@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T22:19:05Z"
+dateFromWiki: "2019-03-23T22:19:05Z"
 title: "Materials Overview"
 aliases:
 - /MonkeyWiki/Materials_Overview

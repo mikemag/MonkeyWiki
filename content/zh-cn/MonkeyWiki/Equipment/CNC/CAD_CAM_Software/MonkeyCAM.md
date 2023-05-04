@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:18:37Z"
+dateFromWiki: "2020-04-28T09:18:37Z"
 title: "MonkeyCAM"
 aliases:
 - /MonkeyWiki/MonkeyCAM/zh-cn

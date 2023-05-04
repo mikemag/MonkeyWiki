@@ -1,5 +1,5 @@
 ---
-date: "2019-02-13T03:51:42Z"
+dateFromWiki: "2019-02-13T03:51:42Z"
 title: "Bases, edges, and nose/tail spacers"
 gallery: true
 aliases:

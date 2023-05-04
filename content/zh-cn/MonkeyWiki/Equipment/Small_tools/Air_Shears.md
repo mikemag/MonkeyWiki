@@ -1,5 +1,5 @@
 ---
-date: "2019-04-01T05:45:30Z"
+dateFromWiki: "2019-04-01T05:45:30Z"
 title: "气动剪刀"
 gallery: true
 aliases:

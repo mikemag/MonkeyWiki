@@ -1,5 +1,5 @@
 ---
-date: "2019-02-12T01:38:39Z"
+dateFromWiki: "2019-02-12T01:38:39Z"
 title: "Weights and fiber fraction"
 aliases:
 - /MonkeyWiki/Weights_and_fiber_fraction

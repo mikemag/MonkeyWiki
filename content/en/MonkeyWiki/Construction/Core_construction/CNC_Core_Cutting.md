@@ -1,5 +1,5 @@
 ---
-date: "2019-02-13T03:59:13Z"
+dateFromWiki: "2019-02-13T03:59:13Z"
 title: "CNC Core Cutting"
 gallery: true
 aliases:

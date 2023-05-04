@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:40:59Z"
+dateFromWiki: "2019-02-03T02:40:59Z"
 title: "Press heat control and thermocouples"
 gallery: true
 aliases:

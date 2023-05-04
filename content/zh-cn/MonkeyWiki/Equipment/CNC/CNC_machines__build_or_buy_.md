@@ -1,5 +1,5 @@
 ---
-date: "2019-05-04T10:50:46Z"
+dateFromWiki: "2019-05-04T10:50:46Z"
 title: "数控雕刻机: 自己造还是买?"
 aliases:
 - /MonkeyWiki/CNC_machines__build_or_buy_/zh-cn

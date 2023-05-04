@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:37:57Z"
+dateFromWiki: "2019-02-03T02:37:57Z"
 title: "CNC machines: build or buy?"
 aliases:
 - /MonkeyWiki/CNC_machines__build_or_buy_

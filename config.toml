@@ -1,12 +1,14 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.happymonkeysnowboards.com'
 languageCode = 'en-us'
 title = 'Monkey Wiki'
 theme = 'hugo-book'
-#theme = 'ananke'
 
 disablePathToLower = true
 
 enableGitInfo = true
+
+[frontmatter]
+  lastmod = ['dateFromWiki', ':default']
 
 # mmmfixme: how to use, what value?
 # copyright = 'Everything is mine'
@@ -19,10 +21,16 @@ defaultContentLanguage = 'en'
     contentDir = 'content/en'
     weight = 1
   [languages.zh-cn]
-    languageName = 'Chinese (FIND PROPER CHARS)'
+    languageName = '中文（中国大陆）'
     contentDir = 'content/zh-cn'
-    title = '(FIND CHINESE SITE NAME)'
     weight = 2
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/mikemag/MonkeyWiki"
+  weight = 10
 
 
 [params]

@@ -1,5 +1,5 @@
 ---
-date: "2019-03-31T17:43:42Z"
+dateFromWiki: "2019-03-31T17:43:42Z"
 title: "Finishing a wood veneer top sheet"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:41:33Z"
+dateFromWiki: "2019-02-03T02:41:33Z"
 title: "Routers and laminate trimmers"
 gallery: true
 aliases:

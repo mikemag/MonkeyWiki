@@ -1,5 +1,5 @@
 ---
-date: "2019-04-03T13:30:27Z"
+dateFromWiki: "2019-04-03T13:30:27Z"
 title: "挠度测试夹具"
 gallery: true
 aliases:

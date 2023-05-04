@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:41:27Z"
+dateFromWiki: "2019-02-03T02:41:27Z"
 title: "Router Bits"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T20:42:15Z"
+dateFromWiki: "2019-03-23T20:42:15Z"
 title: "Tuning and waxing"
 aliases:
 - /MonkeyWiki/Tuning_and_waxing

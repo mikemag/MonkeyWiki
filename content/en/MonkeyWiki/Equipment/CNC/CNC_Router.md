@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:37:15Z"
+dateFromWiki: "2019-02-03T02:37:15Z"
 title: "CNC Router"
 gallery: true
 aliases:

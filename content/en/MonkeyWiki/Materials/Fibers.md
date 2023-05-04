@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T19:00:30Z"
+dateFromWiki: "2019-03-23T19:00:30Z"
 title: "Fibers"
 gallery: true
 aliases:

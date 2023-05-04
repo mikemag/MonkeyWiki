@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T19:49:47Z"
+dateFromWiki: "2019-03-23T19:49:47Z"
 title: "Mixing epoxy"
 aliases:
 - /MonkeyWiki/Mixing_epoxy

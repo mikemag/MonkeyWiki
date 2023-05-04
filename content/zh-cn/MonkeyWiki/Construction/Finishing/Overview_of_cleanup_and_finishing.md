@@ -1,5 +1,5 @@
 ---
-date: "2019-04-11T05:45:21Z"
+dateFromWiki: "2019-04-11T05:45:21Z"
 title: "清理和精加工概述"
 gallery: true
 aliases:

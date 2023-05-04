@@ -1,5 +1,5 @@
 ---
-date: "2019-04-08T14:55:01Z"
+dateFromWiki: "2019-04-08T14:55:01Z"
 title: "设备概述"
 aliases:
 - /MonkeyWiki/Equipment_Overview/zh-cn

@@ -1,5 +1,5 @@
 ---
-date: "2019-04-17T08:53:08Z"
+dateFromWiki: "2019-04-17T08:53:08Z"
 title: "建造概况"
 aliases:
 - /MonkeyWiki/Construction_Overview/zh-cn

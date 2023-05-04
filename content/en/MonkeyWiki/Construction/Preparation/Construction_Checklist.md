@@ -1,5 +1,5 @@
 ---
-date: "2019-03-24T20:21:03Z"
+dateFromWiki: "2019-03-24T20:21:03Z"
 title: "Construction Checklist"
 gallery: true
 aliases:

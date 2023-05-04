@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:40:25Z"
+dateFromWiki: "2019-02-03T02:40:25Z"
 title: "MonkeyCAM"
 aliases:
 - /MonkeyWiki/MonkeyCAM

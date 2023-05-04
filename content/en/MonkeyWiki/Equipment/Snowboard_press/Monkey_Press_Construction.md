@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T07:27:59Z"
+dateFromWiki: "2019-03-23T07:27:59Z"
 title: "Monkey Press Construction"
 gallery: true
 aliases:

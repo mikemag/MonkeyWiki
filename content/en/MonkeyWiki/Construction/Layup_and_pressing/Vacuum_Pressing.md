@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T20:32:35Z"
+dateFromWiki: "2019-03-23T20:32:35Z"
 title: "Vacuum Pressing"
 gallery: true
 aliases:

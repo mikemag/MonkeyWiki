@@ -1,5 +1,5 @@
 ---
-date: "2011-07-09T08:30:03Z"
+dateFromWiki: "2011-07-09T08:30:03Z"
 title: "Monkey Wiki:General disclaimer"
 aliases:
 - /MonkeyWiki/Monkey_Wiki_General_disclaimer

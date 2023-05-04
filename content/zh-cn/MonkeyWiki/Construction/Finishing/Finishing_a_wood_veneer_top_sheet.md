@@ -1,5 +1,5 @@
 ---
-date: "2019-04-12T07:48:25Z"
+dateFromWiki: "2019-04-12T07:48:25Z"
 title: "精加工木饰面板"
 gallery: true
 aliases:

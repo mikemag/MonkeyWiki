@@ -1,5 +1,5 @@
 ---
-date: "2019-04-10T02:53:35Z"
+dateFromWiki: "2019-04-10T02:53:35Z"
 title: "制作芯坯"
 gallery: true
 aliases:

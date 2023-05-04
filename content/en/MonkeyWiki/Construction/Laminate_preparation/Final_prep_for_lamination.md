@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:43:23Z"
+dateFromWiki: "2019-02-03T02:43:23Z"
 title: "Final prep for lamination"
 aliases:
 - /MonkeyWiki/Final_prep_for_lamination

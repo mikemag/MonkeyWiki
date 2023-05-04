@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:39:16Z"
+dateFromWiki: "2019-02-03T02:39:16Z"
 title: "Four-way Clamps"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T19:56:28Z"
+dateFromWiki: "2019-03-23T19:56:28Z"
 title: "Wet layup"
 aliases:
 - /MonkeyWiki/Wet_layup

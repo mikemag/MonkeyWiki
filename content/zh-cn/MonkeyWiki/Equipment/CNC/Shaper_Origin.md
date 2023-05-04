@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:14:51Z"
+dateFromWiki: "2020-04-28T09:14:51Z"
 title: "Shaper Origin"
 gallery: true
 aliases:

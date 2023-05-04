@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:38:48Z"
+dateFromWiki: "2019-02-03T02:38:48Z"
 title: "Feather Board"
 gallery: true
 aliases:

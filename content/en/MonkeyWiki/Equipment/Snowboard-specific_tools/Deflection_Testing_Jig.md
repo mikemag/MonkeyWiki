@@ -1,5 +1,5 @@
 ---
-date: "2019-03-24T20:35:30Z"
+dateFromWiki: "2019-03-24T20:35:30Z"
 title: "Deflection Testing Jig"
 gallery: true
 aliases:

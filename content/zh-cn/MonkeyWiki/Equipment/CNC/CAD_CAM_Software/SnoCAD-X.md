@@ -1,5 +1,5 @@
 ---
-date: "2019-04-10T02:38:57Z"
+dateFromWiki: "2019-04-10T02:38:57Z"
 title: "SnoCAD-X"
 aliases:
 - /MonkeyWiki/SnoCAD-X/zh-cn

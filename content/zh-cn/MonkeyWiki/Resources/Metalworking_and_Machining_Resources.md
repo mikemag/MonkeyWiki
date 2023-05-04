@@ -1,5 +1,5 @@
 ---
-date: "2019-04-17T09:21:31Z"
+dateFromWiki: "2019-04-17T09:21:31Z"
 title: "金属加工和机械加工资源"
 aliases:
 - /MonkeyWiki/Metalworking_and_Machining_Resources/zh-cn

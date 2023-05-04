@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:39:31Z"
+dateFromWiki: "2019-02-03T02:39:31Z"
 title: "Joining the halves of a core blank"
 gallery: true
 aliases:

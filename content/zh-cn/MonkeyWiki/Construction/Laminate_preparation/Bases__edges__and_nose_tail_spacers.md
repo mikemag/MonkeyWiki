@@ -1,5 +1,5 @@
 ---
-date: "2019-04-16T08:46:51Z"
+dateFromWiki: "2019-04-16T08:46:51Z"
 title: "板底, 边刃, 板头和板尾垫片"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T19:27:33Z"
+dateFromWiki: "2019-03-23T19:27:33Z"
 title: "Mold alignment and preparation"
 aliases:
 - /MonkeyWiki/Mold_alignment_and_preparation

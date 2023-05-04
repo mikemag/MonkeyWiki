@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:29:58Z"
+dateFromWiki: "2020-04-28T09:29:58Z"
 title: "木材选择，干燥和准备"
 gallery: true
 aliases:

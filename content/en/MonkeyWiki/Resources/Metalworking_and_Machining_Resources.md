@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:40:17Z"
+dateFromWiki: "2019-02-03T02:40:17Z"
 title: "Metalworking and Machining Resources"
 aliases:
 - /MonkeyWiki/Metalworking_and_Machining_Resources

@@ -1,5 +1,5 @@
 ---
-date: "2019-05-04T10:46:11Z"
+dateFromWiki: "2019-05-04T10:46:11Z"
 title: "你需要一台数控机器吗？"
 aliases:
 - /MonkeyWiki/Do_you_need_a_CNC_machine_/zh-cn

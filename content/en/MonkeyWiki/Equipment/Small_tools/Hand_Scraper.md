@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:39:24Z"
+dateFromWiki: "2019-02-03T02:39:24Z"
 title: "Hand Scraper"
 gallery: true
 aliases:

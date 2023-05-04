@@ -1,5 +1,5 @@
 ---
-date: "2019-04-03T13:42:01Z"
+dateFromWiki: "2019-04-03T13:42:01Z"
 title: "弯边机"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-04-04T07:06:25Z"
+dateFromWiki: "2019-04-04T07:06:25Z"
 title: "雕刻机主轴和修边机"
 gallery: true
 aliases:

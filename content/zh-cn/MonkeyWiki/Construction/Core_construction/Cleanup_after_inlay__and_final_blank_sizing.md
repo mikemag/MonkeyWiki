@@ -1,5 +1,5 @@
 ---
-date: "2019-04-08T22:34:16Z"
+dateFromWiki: "2019-04-08T22:34:16Z"
 title: "嵌体后清理，最后空白板定型"
 gallery: true
 aliases:

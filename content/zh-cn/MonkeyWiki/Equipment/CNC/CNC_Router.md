@@ -1,5 +1,5 @@
 ---
-date: "2019-04-03T13:18:43Z"
+dateFromWiki: "2019-04-03T13:18:43Z"
 title: "CNC 雕刻机"
 gallery: true
 aliases:

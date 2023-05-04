@@ -1,5 +1,5 @@
 ---
-date: "2011-07-10T23:16:15Z"
+dateFromWiki: "2011-07-10T23:16:15Z"
 title: "The Monkey Press"
 aliases:
 - /MonkeyWiki/The_Monkey_Press

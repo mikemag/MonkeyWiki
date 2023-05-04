@@ -1,5 +1,5 @@
 ---
-date: "2021-03-29T05:24:49Z"
+dateFromWiki: "2021-03-29T05:24:49Z"
 title: "Molds and cassettes"
 gallery: true
 aliases:

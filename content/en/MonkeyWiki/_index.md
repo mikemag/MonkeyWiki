@@ -1,7 +1,7 @@
 ---
 dateFromWiki: "2019-03-25T05:22:56Z"
-title: "Main Page"
 gallery: true
+bookCollapseSection: false
 aliases:
 - /MonkeyWiki/Main_Page
 - /MonkeyWiki/Main_Page/en

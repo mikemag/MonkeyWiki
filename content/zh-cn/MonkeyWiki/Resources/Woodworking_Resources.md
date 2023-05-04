@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:26:47Z"
+dateFromWiki: "2020-04-28T09:26:47Z"
 title: "木工资源"
 aliases:
 - /MonkeyWiki/Woodworking_Resources/zh-cn

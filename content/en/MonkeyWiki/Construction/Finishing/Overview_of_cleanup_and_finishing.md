@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:29:52Z"
+dateFromWiki: "2019-02-03T02:29:52Z"
 title: "Overview of cleanup and finishing"
 gallery: true
 aliases:

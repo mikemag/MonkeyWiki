@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:38:25Z"
+dateFromWiki: "2019-02-03T02:38:25Z"
 title: "Edge Benders"
 gallery: true
 aliases:

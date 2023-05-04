@@ -1,5 +1,5 @@
 ---
-date: "2019-05-04T15:58:57Z"
+dateFromWiki: "2019-05-04T15:58:57Z"
 title: "芯坯概述"
 aliases:
 - /MonkeyWiki/Core_blank_overview/zh-cn

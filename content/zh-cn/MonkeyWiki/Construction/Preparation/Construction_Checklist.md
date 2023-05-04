@@ -1,5 +1,5 @@
 ---
-date: "2019-04-17T08:53:54Z"
+dateFromWiki: "2019-04-17T08:53:54Z"
 title: "施工清单"
 gallery: true
 aliases:

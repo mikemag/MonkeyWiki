@@ -1,5 +1,5 @@
 ---
-date: "2019-02-13T04:13:37Z"
+dateFromWiki: "2019-02-13T04:13:37Z"
 title: "Ash edge stringer and sidewalls"
 gallery: true
 aliases:

@@ -1,5 +1,5 @@
 ---
-date: "2019-04-22T08:31:33Z"
+dateFromWiki: "2019-04-22T08:31:33Z"
 title: "数控板芯切割"
 gallery: true
 aliases:

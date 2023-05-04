@@ -1,5 +1,5 @@
 ---
-date: "2020-01-30T13:19:27Z"
+dateFromWiki: "2020-01-30T13:19:27Z"
 title: "雕刻机刀具"
 gallery: true
 aliases:

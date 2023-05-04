@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:38:33Z"
+dateFromWiki: "2019-02-03T02:38:33Z"
 title: "Epoxy"
 gallery: true
 aliases:

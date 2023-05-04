@@ -1,5 +1,5 @@
 ---
-date: "2019-04-16T12:23:51Z"
+dateFromWiki: "2019-04-16T12:23:51Z"
 title: "白蜡木桁条和边墙"
 gallery: true
 aliases:

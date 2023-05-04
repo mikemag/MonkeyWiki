@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:20:45Z"
+dateFromWiki: "2020-04-28T09:20:45Z"
 title: "水管夹"
 gallery: true
 aliases:

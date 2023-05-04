@@ -1,5 +1,5 @@
 ---
-date: "2019-03-23T20:22:07Z"
+dateFromWiki: "2019-03-23T20:22:07Z"
 title: "Simple screen printing"
 aliases:
 - /MonkeyWiki/Simple_screen_printing

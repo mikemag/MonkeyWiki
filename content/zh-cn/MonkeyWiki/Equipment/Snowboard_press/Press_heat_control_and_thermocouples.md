@@ -1,5 +1,5 @@
 ---
-date: "2019-04-10T02:45:51Z"
+dateFromWiki: "2019-04-10T02:45:51Z"
 title: "压机温控箱和加热设备"
 gallery: true
 aliases:

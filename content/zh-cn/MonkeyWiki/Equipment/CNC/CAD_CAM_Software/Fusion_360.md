@@ -1,5 +1,5 @@
 ---
-date: "2019-03-25T04:46:56Z"
+dateFromWiki: "2019-03-25T04:46:56Z"
 title: "Fusion 360"
 aliases:
 - /MonkeyWiki/Fusion_360/zh-cn

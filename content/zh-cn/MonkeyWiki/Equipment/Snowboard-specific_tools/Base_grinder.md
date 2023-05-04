@@ -1,5 +1,5 @@
 ---
-date: "2019-04-04T08:56:10Z"
+dateFromWiki: "2019-04-04T08:56:10Z"
 title: "板底磨床"
 gallery: true
 aliases:

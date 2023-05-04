@@ -1,5 +1,5 @@
 ---
-date: "2019-03-31T18:44:08Z"
+dateFromWiki: "2019-03-31T18:44:08Z"
 title: "Equipment Overview"
 aliases:
 - /MonkeyWiki/Equipment_Overview

@@ -1,5 +1,5 @@
 ---
-date: "2019-03-31T18:50:28Z"
+dateFromWiki: "2019-03-31T18:50:28Z"
 title: "Air Shears"
 gallery: true
 aliases:

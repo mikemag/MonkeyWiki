@@ -1,5 +1,5 @@
 ---
-date: "2019-04-11T05:36:57Z"
+dateFromWiki: "2019-04-11T05:36:57Z"
 title: "重量和纤维分数"
 aliases:
 - /MonkeyWiki/Weights_and_fiber_fraction/zh-cn

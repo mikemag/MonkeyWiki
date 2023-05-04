@@ -1,5 +1,5 @@
 ---
-date: "2019-02-12T01:03:04Z"
+dateFromWiki: "2019-02-12T01:03:04Z"
 title: "Woodworking Resources"
 aliases:
 - /MonkeyWiki/Woodworking_Resources

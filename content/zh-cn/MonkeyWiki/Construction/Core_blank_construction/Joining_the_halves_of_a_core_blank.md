@@ -1,5 +1,5 @@
 ---
-date: "2019-04-10T02:51:16Z"
+dateFromWiki: "2019-04-10T02:51:16Z"
 title: "拼接另外一半空白板芯"
 gallery: true
 aliases:

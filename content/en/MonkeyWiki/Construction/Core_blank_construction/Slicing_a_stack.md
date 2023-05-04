@@ -1,5 +1,5 @@
 ---
-date: "2019-02-03T02:33:16Z"
+dateFromWiki: "2019-02-03T02:33:16Z"
 title: "Slicing a stack"
 gallery: true
 aliases:

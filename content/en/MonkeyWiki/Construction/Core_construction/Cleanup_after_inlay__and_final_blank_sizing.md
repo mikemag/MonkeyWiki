@@ -1,5 +1,5 @@
 ---
-date: "2019-02-13T04:12:02Z"
+dateFromWiki: "2019-02-13T04:12:02Z"
 title: "Cleanup after inlay, and final blank sizing"
 gallery: true
 aliases:

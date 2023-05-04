@@ -1,5 +1,5 @@
 ---
-date: "2019-02-13T07:11:19Z"
+dateFromWiki: "2019-02-13T07:11:19Z"
 title: "参考资料概述"
 aliases:
 - /MonkeyWiki/Resources_Overview/zh-cn

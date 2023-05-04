@@ -1,5 +1,5 @@
 ---
-date: "2019-03-24T20:55:05Z"
+dateFromWiki: "2019-03-24T20:55:05Z"
 title: "Inserts and Kevlar backing"
 gallery: true
 aliases:

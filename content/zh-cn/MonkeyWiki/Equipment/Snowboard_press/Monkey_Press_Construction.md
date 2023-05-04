@@ -1,5 +1,5 @@
 ---
-date: "2019-04-17T09:26:41Z"
+dateFromWiki: "2019-04-17T09:26:41Z"
 title: "Monkey 压力机制造"
 gallery: true
 aliases:

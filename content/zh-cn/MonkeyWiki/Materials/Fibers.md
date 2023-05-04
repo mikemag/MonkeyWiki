@@ -1,5 +1,5 @@
 ---
-date: "2020-04-28T09:25:31Z"
+dateFromWiki: "2020-04-28T09:25:31Z"
 title: "纤维织物"
 gallery: true
 aliases:
