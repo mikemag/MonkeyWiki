@@ -2,8 +2,8 @@
 dateFromWiki: "2019-02-03T02:38:18Z"
 title: "Do you need a CNC machine?"
 aliases:
-- /MonkeyWiki/Do_you_need_a_CNC_machine_
-- /MonkeyWiki/Do_you_need_a_CNC_machine_/en
+- /MonkeyWiki/Do_you_need_a_CNC_machine
+- /MonkeyWiki/Do_you_need_a_CNC_machine/en
 weight: 2
 ---
 A lot of people see CNC machines and think they will allow them to do something faster, more accurately, or have it do something they can’t do by hand. These are wonderful goals, and they are achievable, but like all things in life there are tradeoffs.

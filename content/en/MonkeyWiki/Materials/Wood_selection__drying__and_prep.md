@@ -3,8 +3,8 @@ dateFromWiki: "2019-02-12T01:41:23Z"
 title: "Wood selection, drying, and prep"
 gallery: true
 aliases:
-- /MonkeyWiki/Wood_selection__drying__and_prep
-- /MonkeyWiki/Wood_selection__drying__and_prep/en
+- /MonkeyWiki/Wood_selection,_drying,_and_prep
+- /MonkeyWiki/Wood_selection,_drying,_and_prep/en
 ---
 {{< img src="images/Core_Wood.JPG" caption="_Poplar from Compton Lumber in Seattle._" >}}You can make a core blank out of pretty much any type of wood. The only wood I use in my blanks is poplar; I add a bit of ash along the edge of the core later when [Ash edge stringer and sidewalls]({{< ref "MonkeyWiki/Construction/Core_construction/Ash_edge_stringer_and_sidewalls.md" >}}). Many people use combinations of various types of wood throughout the core, in different patterns. Almost anything will work, so be creative.
 

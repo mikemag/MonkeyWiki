@@ -3,7 +3,7 @@ dateFromWiki: "2020-04-28T09:29:58Z"
 title: "木材选择，干燥和准备"
 gallery: true
 aliases:
-- /MonkeyWiki/Wood_selection__drying__and_prep/zh-cn
+- /MonkeyWiki/Wood_selection,_drying,_and_prep/zh-cn
 translatedDate: "2020-04-28T09:29:58Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"
