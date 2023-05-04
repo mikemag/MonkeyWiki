@@ -4,6 +4,7 @@ title: "Core blank overview"
 aliases:
 - /MonkeyWiki/Core_blank_overview
 - /MonkeyWiki/Core_blank_overview/en
+weight: 1
 ---
 Snowboard cores are typically composed of vertically laminated strips of wood about 2cm wide. The core is machined from a “core blank,” which is usually rectangular, longer, wider, and thicker than the final core.
 

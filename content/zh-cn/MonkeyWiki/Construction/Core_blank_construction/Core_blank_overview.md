@@ -6,6 +6,7 @@ aliases:
 translatedDate: "2019-05-04T15:58:57Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"
+weight: 1
 ---
 滑雪板芯通常由垂直层压的约2cm宽的木条组成。板芯由“空白板”加工而成，它通常是矩形的，比最终板芯更长，更宽，更厚。
 

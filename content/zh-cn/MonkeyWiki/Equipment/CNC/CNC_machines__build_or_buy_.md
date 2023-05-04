@@ -6,6 +6,7 @@ aliases:
 translatedDate: "2019-05-04T10:50:46Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"
+weight: 3
 ---
 人们经常问我是否应该建造自己的CNC机器，就像我建造的[CNC 雕刻机]({{< ref "MonkeyWiki/Equipment/CNC/CNC_Router.md" >}})或只买一台。我不一定要劝阻任何人，但这实际上取决于你想要花费多少时间和精力来建造机器，而不是你想花多少时间来使用机器。据推测，毕竟你想要一台CNC机器来帮助你完成一些有趣的任务！
 

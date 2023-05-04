@@ -18,10 +18,10 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 
 ## 目录
 
-- [建造概况]({{< ref "MonkeyWiki/Construction/Construction_Overview.md" >}})
-- [设备概述]({{< ref "MonkeyWiki/Equipment/Equipment_Overview.md" >}})
-- [材料概述]({{< ref "MonkeyWiki/Materials/Materials_Overview.md" >}})
-- [参考资料概述]({{< ref "MonkeyWiki/Resources/Resources_Overview.md" >}})
+- [建造概况]({{< ref "MonkeyWiki/Construction" >}})
+- [设备概述]({{< ref "MonkeyWiki/Equipment" >}})
+- [材料概述]({{< ref "MonkeyWiki/Materials" >}})
+- [参考资料概述]({{< ref "MonkeyWiki/Resources" >}})
 - [关于]({{< ref "MonkeyWiki/About.md" >}})
 
 

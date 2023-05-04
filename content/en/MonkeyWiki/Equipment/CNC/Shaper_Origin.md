@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Shaper_Origin
 - /MonkeyWiki/Shaper_Origin/en
+weight: 4
 ---
 The [Shaper Origin](https://www.shapertools.com/) is a hand-held CNC router which can be used to cut a variety of 2D shapes. It is a solid option for CNC for molds and templates with minimal space requirements and very good accuracy. 
 

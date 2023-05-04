@@ -7,6 +7,7 @@ aliases:
 translatedDate: "2019-04-11T05:45:21Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"
+weight: 1
 ---
 {{< img src="images/Board_Trimmed.JPG" caption="_滑雪板边缘修剪和清理_" >}}在滑雪板退出压力机之后，我们仍然需要做很多清理工作才能真正看起来像滑雪板。
  

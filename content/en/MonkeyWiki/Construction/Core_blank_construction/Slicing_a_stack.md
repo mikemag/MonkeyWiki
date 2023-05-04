@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Slicing_a_stack
 - /MonkeyWiki/Slicing_a_stack/en
+weight: 3
 ---
 I set my bandsaw up to resaw the stack into slices about 0.5” thick. The stack is less than 2.5” thick from the previous cleanup step, and each pass thru the saw will waste a bit of material as well (the kerf of the blade.) In order to get four slices each 0.5” thick, then, it is critical that the bandsaw is setup well and that you are reasonably practiced at resawing. Don’t practice on one of your precious stacks… use some cheap scrap wood, or even buy a larger beam of wood to practice on. Each side of a slice will eventually have to be perfectly flat, and any wobbles while resawing the stack means lost thickness later. The thicker you can leave each slice, the more freedom you’ll have in your processes later.
 

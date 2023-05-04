@@ -1,5 +1,5 @@
 ---
-weight: 10
+title: "CNC"
+weight: 1
 bookCollapseSection: true
 ---
-Index placeholder!

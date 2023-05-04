@@ -4,6 +4,7 @@ title: "Mixing epoxy"
 aliases:
 - /MonkeyWiki/Mixing_epoxy
 - /MonkeyWiki/Mixing_epoxy/en
+weight: 1
 ---
 # Raw Notes
 This is a temporary page containing raw, unedited notes on this subject. This page and the information here is incomplete, and may be inaccurate. 

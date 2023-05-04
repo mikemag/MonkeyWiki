@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Joining_the_halves_of_a_core_blank
 - /MonkeyWiki/Joining_the_halves_of_a_core_blank/en
+weight: 4
 ---
 The final phase of creating a core blank is joining a pair of book-matched slices from a [Slicing a stack]({{< ref "MonkeyWiki/Construction/Core_blank_construction/Slicing_a_stack.md" >}}) to form a blank that is approximately 14” wide. (Of course, if you’re building skis then you don’t need to do this step, as one slice is plenty wide enough for a single ski!) The blank will be as long as the stack, which will at a minimum accommodate a board 180cm long. I create a small set of blanks each season that will yield a board up to 200cm long, but those are less frequently used. The thickness of the blank is determined by the thickness of the slices, with a goal of at least 0.400” thick to allow for the extra passes thru the planer required as a final core is formed.
 

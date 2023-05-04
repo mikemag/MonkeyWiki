@@ -19,10 +19,10 @@ Enjoy,
 [Mike Magruder (a.k.a Head Monkey)]({{< ref "MonkeyWiki/Head_Monkey.md" >}})
 
 ## Contents 
-- [Construction Overview]({{< ref "MonkeyWiki/Construction/Construction_Overview.md" >}})
-- [Equipment Overview]({{< ref "MonkeyWiki/Equipment/Equipment_Overview.md" >}})
-- [Materials Overview]({{< ref "MonkeyWiki/Materials/Materials_Overview.md" >}})
-- [Resources Overview]({{< ref "MonkeyWiki/Resources/Resources_Overview.md" >}})
+- [Construction Overview]({{< ref "MonkeyWiki/Construction" >}})
+- [Equipment Overview]({{< ref "MonkeyWiki/Equipment" >}})
+- [Materials Overview]({{< ref "MonkeyWiki/Materials" >}})
+- [Resources Overview]({{< ref "MonkeyWiki/Resources" >}})
 - [About]({{< ref "MonkeyWiki/About.md" >}})
 
 ## What about skis? 

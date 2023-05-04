@@ -1,5 +1,4 @@
 ---
-dateFromWiki: "2020-04-28T09:26:47Z"
 title: "木工资源"
 aliases:
 - /MonkeyWiki/Woodworking_Resources/zh-cn
@@ -23,7 +22,7 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 
 关于从真正的木材厂购买木材的优秀文章，而不是家得宝。包括测量（“4/4”表示），分级，不同类型的切割等。 
 
-*[Scott, S. (2011, September). “The Language of the Lumberyard” Fine Woodworking, #221, 22-24.](https://www.finewoodworking.com/2011/07/28/the-language-of-the-lumberyard)
+- [Scott, S. (2011, September). “The Language of the Lumberyard” Fine Woodworking, #221, 22-24.](https://www.finewoodworking.com/2011/07/28/the-language-of-the-lumberyard)
 
 
 木材运动的入门书：

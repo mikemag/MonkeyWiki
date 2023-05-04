@@ -4,6 +4,7 @@ title: "Suppliers"
 aliases:
 - /MonkeyWiki/Suppliers
 - /MonkeyWiki/Suppliers/en
+weight: 1
 ---
 
 ## Home Builders 

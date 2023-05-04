@@ -4,6 +4,7 @@ title: "CNC machines: build or buy?"
 aliases:
 - /MonkeyWiki/CNC_machines__build_or_buy_
 - /MonkeyWiki/CNC_machines__build_or_buy_/en
+weight: 3
 ---
 People frequently ask me if they should build their own CNC machine like the [CNC Router]({{< ref "MonkeyWiki/Equipment/CNC/CNC_Router.md" >}}) or just buy one. I don’t necessarily want to discourage anyone, but it really comes down to how much time and energy you want to spend building the machine versus how much time you want to spend making use of the machine. Presumably, you want a CNC machine to help you perform some interesting task, after all!
  

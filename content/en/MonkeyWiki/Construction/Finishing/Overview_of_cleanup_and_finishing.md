@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Overview_of_cleanup_and_finishing
 - /MonkeyWiki/Overview_of_cleanup_and_finishing/en
+weight: 1
 ---
 {{< img src="images/Board_Trimmed.JPG" caption="_Snowboard with edges trimmed and cleaned up._" >}}After the board comes out of the press we still have a lot of cleanup work to be done before it really starts looking like a snowboard.
  

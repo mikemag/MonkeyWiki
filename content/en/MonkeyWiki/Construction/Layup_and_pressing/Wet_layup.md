@@ -4,6 +4,7 @@ title: "Wet layup"
 aliases:
 - /MonkeyWiki/Wet_layup
 - /MonkeyWiki/Wet_layup/en
+weight: 2
 ---
 # Raw Notes
 This is a temporary page containing raw, unedited notes on this subject. This page and the information here is incomplete, and may be inaccurate. 

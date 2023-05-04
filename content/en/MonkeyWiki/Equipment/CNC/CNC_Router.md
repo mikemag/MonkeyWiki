@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/CNC_Router
 - /MonkeyWiki/CNC_Router/en
+weight: 1
 ---
 In 2003, I built a CNC router to allow me to accurately cut snowboard cores, bases, and mold parts. The cutting area is 2′ x 7’1″, with 5″ of travel in the Z axis (you end up with less due to the length of the cutter, though.) The frame is made of structural aluminum. Each axis moves on steel linear slides, and the plates that make up the mount for the Z axis are 3/4″ aluminum. There are 3 stepper motors powered and controlled by a controller in the grey box above the machine.
  

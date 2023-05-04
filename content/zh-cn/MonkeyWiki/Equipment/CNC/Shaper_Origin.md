@@ -7,6 +7,7 @@ aliases:
 translatedDate: "2020-04-28T09:14:51Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"
+weight: 4
 ---
 [Shaper Origin](https://www.shapertools.com/)是一款手持式CNC雕刻机，可用于切割各种2D形状。对于CNC模具和模板而言，它是一个可靠的选择，具有最小的空间要求和非常好的精度。 
 

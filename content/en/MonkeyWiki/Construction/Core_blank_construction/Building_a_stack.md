@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Building_a_stack
 - /MonkeyWiki/Building_a_stack/en
+weight: 2
 ---
 Once the boards are ready to go, the next step is to sort through them and find nine that make a reasonable stack. The boards don’t have to be perfectly straight. If they are all bent in the same way, that's fine.  If the stack is a bit bowed end-to-end, we can correct that later. 
 

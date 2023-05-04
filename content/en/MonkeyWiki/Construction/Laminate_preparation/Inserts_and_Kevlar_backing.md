@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Inserts_and_Kevlar_backing
 - /MonkeyWiki/Inserts_and_Kevlar_backing/en
+weight: 2
 ---
 # Raw Notes
 This is a temporary page containing raw, unedited notes on this subject. This page and the information here is incomplete, and may be inaccurate. 

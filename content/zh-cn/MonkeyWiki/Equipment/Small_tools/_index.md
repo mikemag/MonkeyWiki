@@ -1,5 +1,6 @@
 ---
-weight: 10
+title: "小工具"
+weight: 4
 bookCollapseSection: true
 ---
-Index placeholder!
+

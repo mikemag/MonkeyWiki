@@ -4,6 +4,7 @@ title: "Mold alignment and preparation"
 aliases:
 - /MonkeyWiki/Mold_alignment_and_preparation
 - /MonkeyWiki/Mold_alignment_and_preparation/en
+weight: 4
 ---
 # Raw Notes
 This is a temporary page containing raw, unedited notes on this subject. This page and the information here is incomplete, and may be inaccurate. 

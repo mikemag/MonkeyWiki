@@ -5,6 +5,7 @@ gallery: true
 aliases:
 - /MonkeyWiki/Bases__edges__and_nose_tail_spacers
 - /MonkeyWiki/Bases__edges__and_nose_tail_spacers/en
+weight: 1
 ---
 The base, with the attached edges, defines the final shape of the board. The edges are used as a guide when trimming the board out after lamination. The nose and tail spacers serve the purpose of sidewalls on the nose and tail. These areas are beyond the effective edge of the board.
  

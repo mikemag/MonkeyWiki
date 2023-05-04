@@ -4,6 +4,7 @@ title: "Woodworking Resources"
 aliases:
 - /MonkeyWiki/Woodworking_Resources
 - /MonkeyWiki/Woodworking_Resources/en
+weight: 1
 ---
 A lot of snowboard construction involves working with wood. If you want to build your own core blanks, or even finish a shaped core then you should get more familiar with much of woodworking in general. There are a bewildering number of woodworking resources out there, so this page collects some of my favorites which are particularly applicable to snowboard construction.
 
