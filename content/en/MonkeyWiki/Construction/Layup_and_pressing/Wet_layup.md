@@ -25,7 +25,7 @@ This is a temporary page containing raw, unedited notes on this subject. This pa
 - Closing the cassette and ensuring things stay in alignment during insertion.
 - Cleanup.
 
-- Resources on wet layup in general: articles online, etc.
+Resources on wet layup in general: articles online, etc.
 
 
 
