@@ -3,7 +3,8 @@ dateFromWiki: "2019-04-16T08:46:51Z"
 title: "板底, 边刃, 板头和板尾垫片"
 gallery: true
 aliases:
-- /MonkeyWiki/Bases__edges__and_nose_tail_spacers/zh-cn
+- /MonkeyWiki/Bases,_edges,_and_nose_tail_spacers/zh-cn
+- /MonkeyWiki/Bases,_edges,_and_nose_tail/spacers/zh-cn
 translatedDate: "2019-04-16T08:46:51Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"

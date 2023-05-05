@@ -3,7 +3,7 @@ dateFromWiki: "2019-04-08T22:34:16Z"
 title: "嵌体后清理，最后空白板定型"
 gallery: true
 aliases:
-- /MonkeyWiki/Cleanup_after_inlay__and_final_blank_sizing/zh-cn
+- /MonkeyWiki/Cleanup_after_inlay,_and_final_blank_sizing/zh-cn
 translatedDate: "2019-04-08T22:34:16Z"
 translator: "X z"
 translatorPage: "/zh-cn/MonkeyWiki/X_z"

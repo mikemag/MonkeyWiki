@@ -3,8 +3,8 @@ dateFromWiki: "2019-02-13T04:12:02Z"
 title: "Cleanup after inlay, and final blank sizing"
 gallery: true
 aliases:
-- /MonkeyWiki/Cleanup_after_inlay__and_final_blank_sizing
-- /MonkeyWiki/Cleanup_after_inlay__and_final_blank_sizing/en
+- /MonkeyWiki/Cleanup_after_inlay,_and_final_blank_sizing
+- /MonkeyWiki/Cleanup_after_inlay,_and_final_blank_sizing/en
 ---
 After the glue has dried, the core blank has to be cleaned up quite a bit. The excess glue must be scraped away, and the blank has to be smoothed completely on both sides using a planer. In order to get a good first pass out of the planer, any high spots on the ash and PTEX need to be shaved down by hand with a block plane. Once the blank is finished in the planer, the base side is pretty much finished. No further smoothing is done on it, and it must be perfectly flat. I take great care to keep the planer in good working order, and I make sure the final passes on the base side are light. This gives me a high quality finish.
  
