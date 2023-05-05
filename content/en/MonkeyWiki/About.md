@@ -1,8 +1,10 @@
 ---
 title: "About"
 aliases:
-- /MonkeyWiki/Monkey_Wiki_About
-- /MonkeyWiki/Monkey_Wiki_About/en
+- /MonkeyWiki/Monkey_Wiki:About
+- /MonkeyWiki/Monkey_Wiki:About/en
+- /MonkeyWiki/MonkeyWiki:About
+- /MonkeyWiki/MonkeyWiki:About/en
 ---
 The purpose of the articles on this site is to provide information on exactly how I built snowboards at Happy Monkey Snowboards, Inc., 
 so that others may learn from it. This will not be a comprehensive treatment of all the different ways to accomplish these tasks, but 
