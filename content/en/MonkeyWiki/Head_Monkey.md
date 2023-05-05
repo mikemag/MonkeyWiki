@@ -1,6 +1,10 @@
 ---
 title: "Head Monkey"
 bookHidden: true
+aliases:
+- /MonkeyWiki/User:Head_Monkey
+- /MonkeyWiki/User:Head_Monkey/en
+- /MonkeyWiki/User:Head_Monkey/zh-cn
 ---
 I'm Mike Magruder, the founder of Happy Monkey Snowboards, Inc., which was from 2003-2010 a very small business where I built custom snowboards by hand. 
 I continued to build boards for myself and close friends through 2018.
