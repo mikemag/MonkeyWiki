@@ -4,6 +4,13 @@ This is the source for the content at https://www.happymonkeysnowboards.com/Monk
 
 This was all converted from the Wiki version of MonkeyWiki in May, 2023. Hopefully I got everything right!
 
+# Donate
+
+You can help offset the server costs for running [MonkeyCAM.org](https://www.monkeycam.org) with a small donation. 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5OG3E0)
+
+
 # Requirements
 
 * Hugo v0.111.3+extended or higher

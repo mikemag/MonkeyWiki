@@ -16,6 +16,12 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 [迈克 · 马格鲁德 (又叫做 Head Monkey)]({{< ref "MonkeyWiki/Head_Monkey.md" >}})
 
 
+## 捐
+
+您可以通过少量捐款来帮助抵消运行 MonkeyWiki 的服务器成本。
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5OG3E0)
+
 ## 目录
 
 - [建造概况]({{< ref "MonkeyWiki/Construction" >}})
