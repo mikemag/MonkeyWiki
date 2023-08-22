@@ -6,7 +6,7 @@ This was all converted from the Wiki version of MonkeyWiki in May, 2023. Hopeful
 
 # Donate
 
-You can help offset the server costs for running [MonkeyCAM.org](https://www.monkeycam.org) with a small donation. 
+You can help offset the server costs for running [MonkeyWiki](https://www.happymonkeysnowboards.com/MonkeyWiki) with a small donation. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5OG3E0)
 
