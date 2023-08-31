@@ -33,7 +33,6 @@ The following articles cover the process of building a snowboard assuming you ha
   - [Mixing epoxy]({{< ref "MonkeyWiki/Construction/Layup_and_pressing/Mixing_epoxy.md" >}})
   - [Wet layup]({{< ref "MonkeyWiki/Construction/Layup_and_pressing/Wet_layup.md" >}})
   - [Pneumatic Pressing]({{< ref "MonkeyWiki/Construction/Layup_and_pressing/Pneumatic_Pressing.md" >}})
-  - [Vacuum Pressing]({{< ref "MonkeyWiki/Construction/Layup_and_pressing/Vacuum_Pressing.md" >}})
 - Finishing
   - [Overview of cleanup and finishing]({{< ref "MonkeyWiki/Construction/Finishing/Overview_of_cleanup_and_finishing.md" >}})
   - [Finishing a wood veneer top sheet]({{< ref "MonkeyWiki/Construction/Finishing/Finishing_a_wood_veneer_top_sheet.md" >}})
@@ -41,3 +40,4 @@ The following articles cover the process of building a snowboard assuming you ha
   - [Tuning and waxing]({{< ref "MonkeyWiki/Construction/Finishing/Tuning_and_waxing.md" >}})
 - Measurement and testing
   - [Weights and fiber fraction]({{< ref "MonkeyWiki/Construction/Measurement_and_testing/Weights_and_fiber_fraction.md" >}})
+- [Vacuum Pressing]({{< ref "MonkeyWiki/Construction/Vacuum_Pressing.md" >}})

@@ -33,7 +33,6 @@ bookCollapseSection: true
   - [混合环氧树脂]({{< ref path="MonkeyWiki/Construction/Layup_and_pressing/Mixing_epoxy.md" lang="en" >}})
   - [湿法铺层]({{< ref path="MonkeyWiki/Construction/Layup_and_pressing/Wet_layup.md" lang="en" >}})
   - [气动压制]({{< ref path="MonkeyWiki/Construction/Layup_and_pressing/Pneumatic_Pressing.md" lang="en" >}})
-  - [真空压制]({{< ref path="MonkeyWiki/Construction/Layup_and_pressing/Vacuum_Pressing.md" lang="en" >}})
 - 收尾
   - [清理和精加工概述]({{< ref "MonkeyWiki/Construction/Finishing/Overview_of_cleanup_and_finishing.md" >}})
   - [精加工木饰面板]({{< ref "MonkeyWiki/Construction/Finishing/Finishing_a_wood_veneer_top_sheet.md" >}})
@@ -41,3 +40,4 @@ bookCollapseSection: true
   - [调整和打蜡]({{< ref path="MonkeyWiki/Construction/Finishing/Tuning_and_waxing.md" lang="en" >}})
 - 测量和测试
   - [重量和纤维分数]({{< ref "MonkeyWiki/Construction/Measurement_and_testing/Weights_and_fiber_fraction.md" >}})
+- [真空压制]({{< ref path="MonkeyWiki/Construction/Vacuum_Pressing.md" lang="en" >}})
