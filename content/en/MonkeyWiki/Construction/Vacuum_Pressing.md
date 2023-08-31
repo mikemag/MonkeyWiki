@@ -386,13 +386,3 @@ to pneumatics and the results are striking.
   to take the pressure. Requires a large air compressor.
   There is a small explosion hazard. Air compressor to maintain (though
   generally useful for other things).
-
-
-I refreshed my MonkeyWiki site this spring, and I put up a page about vacuum bagging today. I've still got a bunch of placeholders here and there, with raw notes that I'd like to clean up. I haven't built for about 5 years now, and at some point I'll stop remembering this stuff :)  
-
-I've been meaning to ask this group for your input about what you'd like to see fixed up or improved. Any suggestions would be very welcomed!
-
-https://www.happymonkeysnowboards.com/MonkeyWiki
-
-
-https://www.happymonkeysnowboards.com/MonkeyWiki/Construction/Vacuum_Pressing/
