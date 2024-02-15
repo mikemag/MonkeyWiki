@@ -5,7 +5,7 @@ aliases:
 - /MonkeyWiki/Main_Page
 - /MonkeyWiki/Main_Page/en
 description: "How I built snowboards at Happy Monkey Snowboards. Construction techniques, equipment, materials, etc."
-title: Home
+title: Monkey Wiki
 ---
 {{< img src="images/Board_2018.jpg" width=300px caption="_Completed board from Winter 2018. Wood veneer topsheet with highly figured Bubinga, English Sycamore, and Ebony. 164cm._" >}} 
 This site provides information on exactly how I built snowboards so that others may learn from it. 
