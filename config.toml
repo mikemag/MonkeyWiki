@@ -37,6 +37,9 @@ defaultContentLanguage = 'en'
   author = "Mike Magruder"
   description = "How I built snowboards at Happy Monkey Snowboards. Construction techniques, equipment, materials, etc."
 
+  # Site-wide image for OpenGraph
+  images = ["images/Board_2018.jpg"]
+
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'auto'

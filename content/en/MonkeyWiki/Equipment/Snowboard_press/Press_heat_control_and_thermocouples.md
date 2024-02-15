@@ -5,6 +5,8 @@ gallery: true
 aliases:
 - /MonkeyWiki/Press_heat_control_and_thermocouples
 - /MonkeyWiki/Press_heat_control_and_thermocouples/en
+images:
+  - images/Press_Full.JPG
 weight: 2
 ---
 {{< img src="images/Press_HeatControllerOutside.JPG" caption="_Heat controller on the Monkey Press._" >}}This is a detailed overview of the heating system on my pneumatic press.

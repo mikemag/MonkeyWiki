@@ -5,6 +5,8 @@ gallery: true
 aliases:
 - /MonkeyWiki/Monkey_Press_Construction
 - /MonkeyWiki/Monkey_Press_Construction/en
+images:
+  - images/Press_Full.JPG
 weight: 1
 ---
 This is a detailed overview of my pneumatic press, complete with part numbers where applicable. 

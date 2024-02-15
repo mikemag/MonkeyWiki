@@ -5,6 +5,8 @@ gallery: true
 aliases:
 - /MonkeyWiki/Molds_and_cassettes
 - /MonkeyWiki/Molds_and_cassettes/en
+images:
+  - images/Press_Full.JPG
 ---
 # Raw Notes
 This is a temporary page containing raw, unedited notes on this subject. This page and the information here is incomplete, and may be inaccurate. 
