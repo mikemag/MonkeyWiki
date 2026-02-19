@@ -10,7 +10,19 @@ translatorPage: "/zh-cn/MonkeyWiki/X_z"
 ---
 {{< img src="images/Epoxy1.JPG" >}}
 {{< img src="images/Epoxy2.JPG" >}}
-我使用专为滑雪板应用设计的环氧系统，由当地公司[QCM Industrial](http://www.qcminds.com)设计。环氧树脂设计为在极低温度下弯曲并抵抗冲击。测量环氧树脂（EMV-0049）和固化剂（ECA-032）并称重至克，然后充分搅拌。在板的顶部和底部通过小心控制的加热压制板，以适当地固化环氧树脂，从而发挥其全部特性。制造商建议对这种特殊的环氧树脂系统进行180°F(82°C)的加热固化。  
+我使用专为滑雪板应用设计的环氧系统，由当地公司QCM Industrial设计。环氧树脂设计为在极低温度下弯曲并抵抗冲击。测量环氧树脂（EMV-0049）和固化剂（ECA-032）并称重至克，然后充分搅拌。在板的顶部和底部通过小心控制的加热压制板，以适当地固化环氧树脂，从而发挥其全部特性。制造商建议对这种特殊的环氧树脂系统进行180°F(82°C)的加热固化。  
+
+### QCM no longer available
+
+Note: this QCM epoxy is no longer available. They sold their formula to Forrest Paint who produced it for a few
+years but they also stopped. I don't have a recommendation for different epoxy since I don't have any direct
+experience with others for snowboard building. 
+
+For posterity's sake, here are the data sheets on EMV-0043 and ECA-032. I don't have a copy of the EMV-0049 datasheet, 
+but this is close enough. I switched to EMV-0043 at some point, I don't recall when.
+
+- [EMV-0043 Data Sheet](/files/EMV-0043.pdf)
+- [ECA-032 Data Sheet](/files/ECA-032.pdf)
 
 
 ## 质量控制

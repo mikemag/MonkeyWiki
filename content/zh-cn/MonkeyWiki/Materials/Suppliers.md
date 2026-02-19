@@ -32,7 +32,8 @@ weight: 1
 - [Fiberlay](http://www.fiberlay.com/) - 少量纤维，是获取碳纤维和凯夫拉纤维的好地方。
 - [Custom Components Group, Inc.](http://www.customcomponentsgroup.com) - 各种嵌件。 这是我得到的全部。
 - [Miller Studio](http://www.millerstudio.net/) - 印刷的顶片。Vince Miller很棒。在我换成木饰面之前，他做了我所有的印花顶片。他会帮助你弄清楚你需要什么，你最终会得到很棒的图形。单身或散装。他还销售散装顶片和板底。
-- [FORREST Technical Coatings](http://forrestpaint.com/) - 这是在他们停止生产环氧树脂时购买了QCM的环氧配方。打电话给他们，告诉他们你正在寻找滑雪板专用环氧树脂QCM，他们会知道你在说什么。 我以前使用QCM产品编号ECA-032和EMV-049。Forrest 仍然将ECA-032作为他们的[FORREST Medium Cure Hardner](http://forresttechblog.com/sportboard-builders-qcm/forrest-medium-cure-hardner/), 他们现在使用EMV-043作为他们的[FORREST Epoxy Resin 218S000](http://forresttechblog.com/sportboard-builders-qcm/forrest-epoxy-resin-218s000/).
+- **UPDATE: Forrest has stopped making QCM epoxy.** 
+  - [FORREST Technical Coatings](http://forrestpaint.com/) - 这是在他们停止生产环氧树脂时购买了QCM的环氧配方。打电话给他们，告诉他们你正在寻找滑雪板专用环氧树脂QCM，他们会知道你在说什么。 我以前使用QCM产品编号ECA-032和EMV-049。Forrest 仍然将ECA-032作为他们的[FORREST Medium Cure Hardner](http://forresttechblog.com/sportboard-builders-qcm/forrest-medium-cure-hardner/), 他们现在使用EMV-043作为他们的[FORREST Epoxy Resin 218S000](http://forresttechblog.com/sportboard-builders-qcm/forrest-epoxy-resin-218s000/).
 - [Michaels Enterprises, Inc.](https://www.michaelsenterprises.com) - 为你的压力机加热毯子。我在这里得到了我的，他们在这一点上已经坚持了15年。
 - [McMaster-Carr](https://www.mcmaster.com/) - 任何机器，工具，商店用品等的任何部分。我喜欢这个地方。他们拥有所有机器零件的3D模型，在设计新设备时使用此功能你可以直接导入到你喜欢的CAD软件中。
 - [Veneer Supplies](https://www.veneersupplies.com/) - 很好的木皮在线供应商。大量选择，出色的运输。我从这里得到了很多。
