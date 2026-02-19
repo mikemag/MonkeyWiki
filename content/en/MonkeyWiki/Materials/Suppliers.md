@@ -1,5 +1,4 @@
 ---
-dateFromWiki: "2019-03-23T22:24:24Z"
 title: "Suppliers"
 aliases:
 - /MonkeyWiki/Suppliers

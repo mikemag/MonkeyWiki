@@ -1,5 +1,4 @@
 ---
-dateFromWiki: "2019-04-17T09:24:32Z"
 title: "供应商"
 aliases:
 - /MonkeyWiki/Suppliers/zh-cn

@@ -1,5 +1,4 @@
 ---
-dateFromWiki: "2019-04-04T08:21:21Z"
 title: "环氧树脂"
 gallery: true
 aliases:
