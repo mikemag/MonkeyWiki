@@ -13,8 +13,8 @@ You can help offset the server costs for running [MonkeyWiki](https://www.happym
 
 # Requirements
 
-* Hugo v0.111.3+extended or higher
-* [Hugo Book Theme](https://github.com/alex-shpak/hugo-book)
+* hugo v0.154.2+extended or higher
+* [Hugo Book Theme](https://github.com/alex-shpak/hugo-book) @ 81a841c92d62f2ed8d9134b0b18623b8b2471661
 
 # License
 
